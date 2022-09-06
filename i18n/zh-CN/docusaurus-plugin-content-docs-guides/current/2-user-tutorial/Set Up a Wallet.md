@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ### What is a Metamask Wallet?
 
-**MetaMask** is a digital wallet that is specific to Ethereum. There are other wallets available, and Project Galaxy supports bunch of them as well, but MetaMask is still the most popular one. It’s connected to your web browser as an extension where you can hold and spend ETH. You’ll need to connect your wallet to Foundation in order to participate in the marketplace.
+**MetaMask** is a digital wallet that is specific to Ethereum. There are other wallets available, and Galxe supports bunch of them as well, but MetaMask is still the most popular one. It’s connected to your web browser as an extension where you can hold and spend ETH. You’ll need to connect your wallet to Foundation in order to participate in the marketplace.
 
 ### **How do I set up a Metamask wallet?**
 

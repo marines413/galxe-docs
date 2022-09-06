@@ -31,7 +31,7 @@ query nftHolders {
 
 ## Query NFT holders by Campaign
 
-`id`: Galaxy campaign ID
+`id`: Galxe campaign ID
 
 ```graphql
 query nftHolders {
@@ -173,9 +173,9 @@ Response:
         "name": "1inch Network"
       },
       "campaign": {
-        "name": "1inch x Project Galaxy NFT raffle",
+        "name": "1inch x Galxe NFT raffle",
         "id": "GCk3oUU83c",
-        "info": "The legendary 1inch cyber unicorn has managed to get the powers of all the three major chains. And seems like no one can stop him from dominating the DeFi world. 5 lucky winners will be chosen randomly on August 3rd. To enter:\n\n• Follow both [@1inch](https://twitter.com/1inch) & [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) on Twitter\n\n• Like and retweet this post\n\n• Reply with [#1inchNFT](https://twitter.com/hashtag/1inchNFT) hashtag"
+        "info": "The legendary 1inch cyber unicorn has managed to get the powers of all the three major chains. And seems like no one can stop him from dominating the DeFi world. 5 lucky winners will be chosen randomly on August 3rd. To enter:\n\n• Follow both [@1inch](https://twitter.com/1inch) & [@GalxeHQ](https://twitter.com/GalxeHQ) on Twitter\n\n• Like and retweet this post\n\n• Reply with [#1inchNFT](https://twitter.com/hashtag/1inchNFT) hashtag"
       },
       "chain": "ETHEREUM",
       "name": "1inch Cyber Unicorn",

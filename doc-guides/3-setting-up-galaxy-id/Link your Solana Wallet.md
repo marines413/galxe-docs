@@ -3,11 +3,11 @@ sidebar_label: 'Link Your Solana Wallet'
 sidebar_position: 2
 ---
 
-# Link your Solana Wallet to Galaxy ID
+# Link your Solana Wallet to Galxe ID
 
 ## Step 1: Set up your Phantom Wallet if you haven’t done so
 
-Currently Project Galaxy supports Phantom Wallet on Solana.
+Currently Galxe supports Phantom Wallet on Solana.
 
 ---
 
@@ -27,11 +27,11 @@ Look for the Phantom icon in your browser's toolbar.
 
 If you are using Chrome, it will be in the top right hand side of your browser. If you don't see it look for a "puzzle piece" icon and click on it to access a list of installed extensions. There you should find Phantom, click on the "pin icon" to make it easier to find in the future.
 
-## Step 2: Link Phantom Wallet to your Galaxy ID
+## Step 2: Link Phantom Wallet to your Galxe ID
 
 ---
 
-1. Visit [https://galaxy.eco/accountSetting](https://galaxy.eco/accountSetting)
+1. Visit [https://galxe.com/accountSetting](https://galxe.com/accountSetting)
 2. Connect your wallet with your existing account
 3. In the Network List section, click “Add Network”
 
@@ -42,6 +42,6 @@ If you are using Chrome, it will be in the top right hand side of your browser. 
     ![Screen Shot 2022-02-07 at 11.01.40 PM.png](assets/Screen_Shot_2022-02-07_at_11.01.40_PM.png)
 
 5. Approve the signature requests on your Phantom Wallet and Metamask Wallet.
-6. Congrats! Now your Galaxy ID support both EVM Chain and Solana!
+6. Congrats! Now your Galxe ID support both EVM Chain and Solana!
 
 ![WechatIMG317.jpeg](assets/WechatIMG317.jpeg)

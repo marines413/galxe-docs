@@ -12,7 +12,7 @@ slug: starnft
 
 ## Contract Address:
 
-We have a lot of StarNFT contracts, there only list the Galaxy Space contract addresses.
+We have a lot of StarNFT contracts, there only list the Galxe Space contract addresses.
 
 | Chain     | Address                                    |
 | --------- | ------------------------------------------ |

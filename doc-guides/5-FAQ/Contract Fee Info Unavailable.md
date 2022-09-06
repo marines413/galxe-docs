@@ -17,4 +17,4 @@ Go to Settings > Network > The network you are using > New RPC URL. Paste the cu
 <video width="720" height="303" controls src="https://cdn.galaxy.eco/galaxy/assets/galaxyspace/switch_rpc.mp4"></video>
 
 ---
-If you are still having problems, please contact our [support](https://to.galaxy.eco/support) for help.
+If you are still having problems, please contact our [support](https://gal.xyz/support) for help.

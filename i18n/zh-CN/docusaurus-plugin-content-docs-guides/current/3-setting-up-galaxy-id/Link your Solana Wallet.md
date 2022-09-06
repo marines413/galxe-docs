@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## Step 1: Set up your Phantom Wallet if you haven’t done so
 
-Currently Project Galaxy supports Phantom Wallet on Solana.
+Currently Galxe supports Phantom Wallet on Solana.
 
 ---
 
@@ -31,7 +31,7 @@ If you are using Chrome, it will be in the top right hand side of your browser. 
 
 ---
 
-1. Visit [https://galaxy.eco/accountSetting](https://galaxy.eco/accountSetting)
+1. Visit [https://galxe.com/accountSetting](https://galxe.com/accountSetting)
 2. Connect your wallet with your existing account
 3. In the Network List section, click “Add Network”
 

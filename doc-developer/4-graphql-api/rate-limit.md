@@ -12,4 +12,4 @@ The maximum number of requests that are allowed are:
 
 When an application exceeds the rate limit for a given API endpoint, the API will return a HTTP 429 “Too Many Requests” response code.
 
-Note that this page is not an exhaustive listing of all Project Galaxy rate limits or rate-limited endpoints, that some users may experience different rate limit thresholds from those shown, and that rate limits are subject to change at any time.
+Note that this page is not an exhaustive listing of all Galxe rate limits or rate-limited endpoints, that some users may experience different rate limit thresholds from those shown, and that rate limits are subject to change at any time.

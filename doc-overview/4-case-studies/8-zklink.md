@@ -11,7 +11,7 @@ slug: LoyaltyProgramWithZk.Link
 
 ## Solution
 
-zkLink launched a 5,000,000 giveaway program rewarding every participant with a zkLink Loyalty NFT on Project Galaxy. The NFT was the certificate to farm in an exclusive liquidity pool with much higher yields.
+zkLink launched a 5,000,000 giveaway program rewarding every participant with a zkLink Loyalty NFT on Galxe. The NFT was the certificate to farm in an exclusive liquidity pool with much higher yields.
 
 ![zklink](assets/zklink.png)
 

@@ -7,21 +7,21 @@ const DefaultLocale = "en";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Project Galaxy Docs",
+  title: "Galxe Docs",
   tagline:
-    "Here you'll find guides, resources, and references you can use to onboard and build with Project Galaxy",
-  url: "https://docs.galaxy.eco",
+    "Here you'll find guides, resources, and references you can use to onboard and build with Galxe",
+  url: "https://docs.galxe.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "ProjectGalaxyHQ",
-  projectName: "galaxy-docs",
+  organizationName: "GalxeHQ",
+  projectName: "galxe-docs",
 
-  i18n: {
-    defaultLocale: DefaultLocale,
-    locales: ["en", "zh-CN"],
-  },
+  // i18n: {
+  //   defaultLocale: DefaultLocale,
+  //   locales: ["en", "zh-CN"],
+  // },
 
   presets: [
     [
@@ -37,10 +37,10 @@ const config = {
           editUrl: ({ locale, versionDocsDirPath, docPath }) => {
             // Link to Crowdin for non-English docs
             if (locale !== DefaultLocale) {
-              return `https://crowdin.com/project/docs_galaxy_eco/${locale}`;
+              return `https://crowdin.com/project/docs_galxe_eco/${locale}`;
             }
             // Link to GitHub for English docs
-            return `https://github.com/ProjectGalaxyHQ/galaxy-docs/tree/main/doc-overview/${docPath}`;
+            return `https://github.com/GalxeHQ/galxe-docs/tree/main/doc-overview/${docPath}`;
           },
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
@@ -63,28 +63,28 @@ const config = {
       // SEO
       image: "static/img/meta-bg.jpg",
       metadata: [
-        { name: "title", content: "Project Galaxy Docs" },
+        { name: "title", content: "Galxe Docs" },
         {
           name: "description",
           content:
-            "Here you'll find guides, resources, and references you can use to onboard and build with Project Galaxy.",
+            "Here you'll find guides, resources, and references you can use to onboard and build with Galxe.",
         },
         { name: "language", content: "English" },
         { name: "twitter:card", content: "summary" },
-        { name: "twitter:site", content: "@ProjectGalaxyHQ" },
+        { name: "twitter:site", content: "@GalxeHQ" },
         { name: "twitter:creator", content: "@oyyblin" },
         {
           property: "og:url",
-          content: "https://docs.galaxy.eco/",
+          content: "https://docs.galxe.com/",
         },
         {
           property: "og:title",
-          content: "Project Galaxy Docs",
+          content: "Galxe Docs",
         },
         {
           property: "og:description",
           content:
-            "Here you'll find guides, resources, and references you can use to onboard and build with Project Galaxy.",
+            "Here you'll find guides, resources, and references you can use to onboard and build with Galxe.",
         },
         {
           property: "og:image",
@@ -102,13 +102,13 @@ const config = {
       // },
       navbar: {
         logo: {
-          src: "img/logo-light-vert.png",
-          srcDark: "img/logo-dark-vert.png",
+          src: "img/logo-light.svg",
+          srcDark: "img/logo-dark.svg",
         },
         items: [
           {
             type: "doc",
-            docId: "into-the-galaxy/overview",
+            docId: "into-the-galxe/overview",
             label: "Overview",
             position: "left",
           },
@@ -134,19 +134,19 @@ const config = {
             position: "left",
           },
           {
-            href: "https://galaxy.eco",
+            href: "https://galxe.com",
             label: "App",
             position: "right",
           },
           {
-            href: "https://to.galaxy.eco/support",
+            href: "https://gal.xyz/support",
             label: "Contact Support",
             position: "right",
           },
-          {
-            type: "localeDropdown",
-            position: "right",
-          },
+          // {
+          //   type: "localeDropdown",
+          //   position: "right",
+          // },
         ],
       },
       footer: {
@@ -156,7 +156,7 @@ const config = {
             items: [
               {
                 label: "Forum",
-                href: "https://forum.galaxy.eco/",
+                href: "https://forum.galxe.com/",
               },
               {
                 label: "Proposals",
@@ -164,7 +164,7 @@ const config = {
               },
               {
                 label: "Vote",
-                href: "https://vote.galaxy.eco/",
+                href: "https://vote.galxe.com/",
               },
             ],
           },
@@ -173,7 +173,7 @@ const config = {
             items: [
               {
                 label: "Github",
-                href: "https://github.com/ProjectGalaxyHQ",
+                href: "https://github.com/GalxeHQ",
               },
               {
                 label: "Developer Docs",
@@ -191,11 +191,11 @@ const config = {
               {
                 label: "Twitter",
                 href:
-                  "https://twitter.com/intent/follow?screen_name=ProjectGalaxyHQ",
+                  "https://twitter.com/intent/follow?screen_name=GalxeHQ",
               },
               {
                 label: "Telegram",
-                href: "https://t.me/ProjectGalaxyHQ",
+                href: "https://t.me/GalxeHQ",
               },
             ],
           },
@@ -208,15 +208,15 @@ const config = {
               },
               {
                 label: "Guides",
-                href: "https://docs.galaxy.eco/guide",
+                href: "https://docs.galxe.com/guide",
               },
               {
                 label: "Blog",
-                href: "https://blog.galaxy.eco/",
+                href: "https://blog.galxe.com/",
               },
               {
                 label: "Newsletter",
-                href: "http://newsletter.galaxy.eco/",
+                href: "http://newsletter.galxe.com/",
               },
             ],
           },
@@ -225,20 +225,20 @@ const config = {
             items: [
               {
                 label: "App",
-                href: "https://galaxy.eco/",
+                href: "https://galxe.com/",
               },
               {
                 label: "Brand Assets",
-                href: "https://to.galaxy.eco/brand",
+                href: "https://gal.xyz/brand",
               },
               {
                 label: "Contact Support",
-                href: "https://to.galaxy.eco/support",
+                href: "https://gal.xyz/support",
               },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Project Galaxy`,
+        copyright: `© ${new Date().getFullYear()} Galxe`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -260,7 +260,7 @@ const config = {
     [
       "@edno/docusaurus2-graphql-doc-generator",
       {
-        schema: "https://graphigo.prd.galaxy.eco/query",
+        schema: "https://graphigo.prd.galxe.com/query",
         // docs will be generated under rootPath/baseURL
         rootPath: "./doc-developer/4-graphql-api",
         baseURL: "references",
@@ -285,7 +285,7 @@ const config = {
             return `https://crowdin.com/project/docs_galaxy_eco/${locale}`;
           }
           // Link to GitHub for English docs
-          return `https://github.com/ProjectGalaxyHQ/galaxy-docs/tree/main/doc-developer/${docPath}`;
+          return `https://github.com/GalxeHQ/galxe-docs/tree/main/doc-developer/${docPath}`;
         },
         showLastUpdateAuthor: false,
         showLastUpdateTime: true,
@@ -305,7 +305,7 @@ const config = {
             return `https://crowdin.com/project/docs_galaxy_eco/${locale}`;
           }
           // Link to GitHub for English docs
-          return `https://github.com/ProjectGalaxyHQ/galaxy-docs/tree/main/doc-guides/${docPath}`;
+          return `https://github.com/GalxeHQ/galxe-docs/tree/main/doc-guides/${docPath}`;
         },
         showLastUpdateAuthor: false,
         showLastUpdateTime: true,
@@ -325,7 +325,7 @@ const config = {
             return `https://crowdin.com/project/docs_galaxy_eco/${locale}`;
           }
           // Link to GitHub for English docs
-          return `https://github.com/ProjectGalaxyHQ/galaxy-docs/tree/main/doc-governance/${docPath}`;
+          return `https://github.com/GalxeHQ/galxe-docs/tree/main/doc-governance/${docPath}`;
         },
         showLastUpdateAuthor: false,
         showLastUpdateTime: true,

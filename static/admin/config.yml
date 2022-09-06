@@ -3,7 +3,7 @@ publish_mode: editorial_workflow
 backend:
   name: github
   branch: main
-  repo: ProjectGalaxyHQ/galaxy-docs
+  repo: GalxeHQ/galxe-docs
   open_authoring: true
   commit_messages:
     create: "doc({{collection}}): Create {{slug}}"
@@ -18,10 +18,10 @@ media_folder: "static/img" # Media files will be stored in the repo under static
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: overview_into-the-galaxy
-    label: "overview/into-the-galaxy"
+  - name: overview_into-the-galxe
+    label: "overview/into-the-galxe"
     description: "description"
-    folder: doc-overview/1-into-the-galaxy
+    folder: doc-overview/1-into-the-galxe
     identifier_field: sidebar_position
     summary: "{{sidebar_position}} - {{sidebar_label}}"
     extension: md
@@ -137,10 +137,10 @@ collections:
       - { name: sidebar_position, label: Sidebar Position, widget: number }
       - { name: slug, label: Slug, widget: string }
       - { name: body, label: Body, widget: markdown }
-  - name: guide_setting-up-galaxy-id
-    label: "guide/setting-up-galaxy-id"
+  - name: guide_setting-up-galxe-id
+    label: "guide/setting-up-galxe-id"
     description: "description"
-    folder: doc-guides/3-setting-up-galaxy-id
+    folder: doc-guides/3-setting-up-galxe-id
     identifier_field: sidebar_position
     summary: "{{sidebar_position}} - {{sidebar_label}}"
     extension: md

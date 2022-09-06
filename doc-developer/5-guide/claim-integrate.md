@@ -36,12 +36,12 @@ Formula is a algebraic expression of credentials and entries, the output of form
 
 ## 1.2. Integration workflow
 
-1. Sign up for Project Galaxy Dashboard access, please refer to [Sign Up for Beta Access | Project Galaxy Docs](https://docs.galaxy.eco/guide/dashboard-tutorial/beta-signup) .
+1. Sign up for Galxe Dashboard access, please refer to [Sign Up for Beta Access | Galxe Docs](https://docs.galxe.com/guide/dashboard-tutorial/beta-signup) .
 2. Create credentials through the Dashboard. Upload data for your credentials if their source is CSV file.
 3. Create NFT core(NFT contract) if needed, if you are only need to intergrate OAT campaign, then it’s not needed.
 4. Create space through the Dashboard.
 5. Create campaign with with “Integrate campaign claiming into third-party websites” checked  under your space through the Dashboard. *(This will turn the campaign into gasless mode, right now we only support integrate gasless claim)*
-6. Go to your campaign page inside Project Galaxy to check if the campaign info is correct and credentials lighted up for eligible users.
+6. Go to your campaign page inside Galxe to check if the campaign info is correct and credentials lighted up for eligible users.
 7. Release your campaign through Dashboard.
 8. Integrate `query campaign` API, get campaign info data for rendering your NFT claim page.
 9. If you need to check whether a user is eligible to claim before hand, integrate `query campaign` API to get `eligible(address:String!)` field of credential object and use `formula` field to calculate the result on your side.
@@ -53,13 +53,13 @@ Formula is a algebraic expression of credentials and entries, the output of form
 
 ## 2.1. Overview
 
-For endpoint and other info, please refer to [Overview | Project Galaxy Docs](https://docs.galaxy.eco/developer/graphql-api/overview) .
+For endpoint and other info, please refer to [Overview | Galxe Docs](https://docs.galxe.com/developer/graphql-api/overview) .
 
 And for interface of each GraphQL query, please check docs/schema from [Playground - https://graphigo.prd.galaxy.eco/query](https://graphigo.prd.galaxy.eco/) .
 
 ## 2.2. Query campaign
 
-This API is used for get campaign object, a campaign is the key object that holds all info for NFT claiming process, integrate this API to setup your own NFT claim page. An example of how a campaign can be shown on website: [New To The Galaxy? Start your adventure here! by Galaxy Space | Project Galaxy](https://galaxy.eco/galaxy/campaign/GCqBzUtW7w) .
+This API is used for get campaign object, a campaign is the key object that holds all info for NFT claiming process, integrate this API to setup your own NFT claim page. An example of how a campaign can be shown on website: [New To The Galxe? Start your adventure here! by Galxe Space | Galxe](https://galxe.com/galaxy/campaign/GCqBzUtW7w) .
 
 ### 2.2.1. Q**uery**
 
@@ -73,7 +73,7 @@ query {
 
 | Arguments | Description |
 | --- | --- |
-| id String! | You can get campaign id from Project Galaxy Dashboard page’ url once you created a campaign |
+| id String! | You can get campaign id from Galxe Dashboard page’ url once you created a campaign |
 
 ### 2.2.3. **Fields**
 
@@ -192,7 +192,7 @@ query {
     "campaign": {
       "numberID": 4018,
       "name": "New To The Galaxy? Start your adventure here!",
-      "description": "Project Galaxy is a collaborative credential infrastructure that empowers brands to build better communities and products in Web3, by leveraging on and off-chain credentials into creative and influential growth campaigns.\n\nCampaigns range from on-chain (ex: depositing on the blockchain) to off-chain (Liking a Tweet, Being a Discord member or attending an AMA, etc)\n\n\nStep 1: Verify your Galaxy ID by setting a username [Here !](https://galaxy.eco/galaxyid/)\n\nStep 2: Follow us on Twitter \n[Here ! ](https://twitter.com/ProjectGalaxyHQ?s=20&t=6fgf-DUT7ikDP9Bvuem_vQ)",
+      "description": "Galxe is a collaborative credential infrastructure that empowers brands to build better communities and products in Web3, by leveraging on and off-chain credentials into creative and influential growth campaigns.\n\nCampaigns range from on-chain (ex: depositing on the blockchain) to off-chain (Liking a Tweet, Being a Discord member or attending an AMA, etc)\n\n\nStep 1: Verify your Galaxy ID by setting a username [Here !](https://galxe.com/galaxyid/)\n\nStep 2: Follow us on Twitter \n[Here ! ](https://twitter.com/GalxeHQ?s=20&t=6fgf-DUT7ikDP9Bvuem_vQ)",
       "thumbnail": "https://d257b89266utxb.cloudfront.net/galaxy/images/avatar/0xbb3a7bc36b5bafa7691ccb708ebf299b6d521b05-1655889591.jpg",
       "numNFTMinted": 49618,
       "startTime": 1656450000,
@@ -225,15 +225,15 @@ query {
         {
           "id": "3034",
           "name": "Set Galaxy ID Username",
-          "description": "Set your Galaxy ID username in Project Galaxy",
+          "description": "Set your Galaxy ID username in Galxe",
           "credType": "EVM_ADDRESS",
           "credSource": "GRAPHQL",
           "eligible": 1
         },
         {
           "id": "3028",
-          "name": "Project Galaxy Twitter Follower",
-          "description": "Project Galaxy Twitter Follower",
+          "name": "Galxe Twitter Follower",
+          "description": "Galxe Twitter Follower",
           "credType": "TWITTER",
           "credSource": "TWITTER_FOLLOW",
           "eligible": 0

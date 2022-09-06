@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Switch Network in Your Wallet
 
-Project Galaxy currently supports Ethereum, Binance Smart Chain, Polygon, Arbitrum, Fantom, Avalanche, and Solana. Sometimes you need to switch the network in your wallet to participate in various campaigns, and here’s the guide on how to accomplish that
+Galxe currently supports Ethereum, Binance Smart Chain, Polygon, Arbitrum, Fantom, Avalanche, and Solana. Sometimes you need to switch the network in your wallet to participate in various campaigns, and here’s the guide on how to accomplish that
 
 ## Find the RPC addresses of the networks
 

@@ -13,7 +13,7 @@ Source URL:
 
 [https://mirror.xyz/0x377B581957f447D2C56C08a0af23586c5a3B2577/IkNz6sQZgICuiOFqAoOxa8nlaNGrqlzvSMrL_xS2Drw](https://mirror.xyz/0x377B581957f447D2C56C08a0af23586c5a3B2577/IkNz6sQZgICuiOFqAoOxa8nlaNGrqlzvSMrL_xS2Drw)
 
-- Nearly 30,000 users minted Hashflow’s NFTs on Ethereum mainnet on Project Galaxy during a six-week campaign
+- Nearly 30,000 users minted Hashflow’s NFTs on Ethereum mainnet on Galxe during a six-week campaign
 - Hashflow weekly active users grew from 3,000 to 13,000+
 - Following the start of the Galaxy campaign, Hashflow’s monthly trading volume skyrocketed from $19.8M in August to $673M in October
 
@@ -21,9 +21,9 @@ Source URL:
 
 Growth in Web3 is a challenge; Web3 has no app stores, no targeted Facebook ads, no email marketing, no re-marketing, no affiliate marketing...yeah, you get it. The tools relied upon by Silicon Valley growth marketers over the past decade have largely evaporated in our industry, and we've been left with only a couple arrows in the quiver. Beyond meme contests and an active Twitter account, Web3 teams have relied mainly on token incentives for early adopters. Using tokens as an incentive, while successful in some instances, is more recently being called into question as it has trained parasitic behavior as users rush into projects with liquidity to earn tokens only to dump them and when the incentives dry up, say goodbye to those users.
 
-## Introducing Project Galaxy
+## Introducing Galxe
 
-[Project Galaxy](https://galaxy.eco/) is building permissionless infrastructure for web3 projects that powers on-chain credentials with plug-and-play NFT modules. An on-chain credential system provides protocols and DAOs with actionable data to more effectively acquire and retain users. Protocols can build customized campaigns with plug & play modules to issue credential-based NFTs achieving all types of objectives: promote community engagement and retention, reward most active contributors, or allow users to stake in any designated tokens to mint NFTs that represent one’s contribution in the community.
+[Galxe](https://galxe.com/) is building permissionless infrastructure for web3 projects that powers on-chain credentials with plug-and-play NFT modules. An on-chain credential system provides protocols and DAOs with actionable data to more effectively acquire and retain users. Protocols can build customized campaigns with plug & play modules to issue credential-based NFTs achieving all types of objectives: promote community engagement and retention, reward most active contributors, or allow users to stake in any designated tokens to mint NFTs that represent one’s contribution in the community.
 
 ## Introducing Hashflow
 
@@ -38,20 +38,20 @@ Despite those compelling advantages, growing trading volume can be a challenge a
 
 Hashflow not having a token early led to some questioning from early community members. Even months before the release of their closed alpha product, most of them tended to be skeptical about the advantages of being an early user, even if the core team ensured they were having discussions about potential mechanics to reward early contributors.
 
-Then, we introduced [Charles](https://twitter.com/charleswayn) from Project Galaxy to the Hashflow team because it seemed pretty evident that it could lead to a great collaboration to incentivize and reward early community members with NFTs.
+Then, we introduced [Charles](https://twitter.com/charleswayn) from Galxe to the Hashflow team because it seemed pretty evident that it could lead to a great collaboration to incentivize and reward early community members with NFTs.
 
-In September, Hashflow and Project Galaxy [announced](https://blog.galaxy.eco/hashflow-invades-the-galaxy-with-the-hashbot-d5f87cd07af1) a partnership to utilize the credential-based NFT infrastructure and launched the Hashbot Genesis campaign. They also activated an exclusive, one-of-a-kind NFT that personifies the badass tech powering Hashflow called The Hashbot. This 1st issue was claimable by all Private Alpha users. Since that first drop, Hashflow has been incentivizing its users’ thanks to the infrastructure provided by Project Galaxy:
+In September, Hashflow and Galxe [announced](https://blog.galxe.com/hashflow-invades-the-galaxy-with-the-hashbot-d5f87cd07af1) a partnership to utilize the credential-based NFT infrastructure and launched the Hashbot Genesis campaign. They also activated an exclusive, one-of-a-kind NFT that personifies the badass tech powering Hashflow called The Hashbot. This 1st issue was claimable by all Private Alpha users. Since that first drop, Hashflow has been incentivizing its users’ thanks to the infrastructure provided by Galxe:
 
-- Hashflow used Project Galaxy to reward the HashMatic Trading Competition winners by offering a Diwali-inspired, MATIC-themed Hashbot poster.
+- Hashflow used Galxe to reward the HashMatic Trading Competition winners by offering a Diwali-inspired, MATIC-themed Hashbot poster.
 - For Halloween, Hashflow released a special Hashbot art for the most loyal #hashgang members who continue to grow and strengthen the community.
 
 [https://lh5.googleusercontent.com/aynXEJ6LiDGNZl9pKJELaPOZyejoZofY9iEEJ-rHqhYVu4b2KMIk3jC9-VNXlkPcvd2PwcsG18droP1dM3k1_tiOQi0tRZtitRbssPl748oid9Fk3sJfhzzMZ8wrEsc6sI3mLaxy](https://lh5.googleusercontent.com/aynXEJ6LiDGNZl9pKJELaPOZyejoZofY9iEEJ-rHqhYVu4b2KMIk3jC9-VNXlkPcvd2PwcsG18droP1dM3k1_tiOQi0tRZtitRbssPl748oid9Fk3sJfhzzMZ8wrEsc6sI3mLaxy)
 
-With ten drops and more than 20,850 NFTs minted, Project Galaxy has been a great tool to show the community-driven growth of Hashflow truly its most loyal users own Hashflow. The goal has always been to distribute rewards fairly to ensure that Hashflow is owned by its most loyal users.
+With ten drops and more than 20,850 NFTs minted, Galxe has been a great tool to show the community-driven growth of Hashflow truly its most loyal users own Hashflow. The goal has always been to distribute rewards fairly to ensure that Hashflow is owned by its most loyal users.
 
 > “We have seen explosive demand around on-chain credentialing and on-chain marketing in the Web3 space. Hashflow's campaigns demonstrated how projects and DAOs can leverage the combination of on-chain credentials and achievement-based NFTs to bring the community engagement to the next level.”
 
-Charles Wayn, Co-Founder Project Galaxy
+Charles Wayn, Co-Founder Galxe
 
 On October 6th, Hashflow [tweeted](https://twitter.com/hashflownetwork/status/1445887519342481420) that they crossed $250M trading volume. Metrics have been [growing](https://dune.xyz/Hashflow/Hashflow) tremendously since then.
 
@@ -59,8 +59,8 @@ On October 6th, Hashflow [tweeted](https://twitter.com/hashflownetwork/status/14
 
 The Galaxy Campaign also had a significant impact on Hashflow WAU's
 
-> "We believe that NFTs are a great way to do brand acquisition and build the cult following. Project Galaxy understood this thesis extremely well and have done an amazing job at catering to our needs and feedback and executed flawlessly despite the pressure.  Can't wait for many more collaborations that lie ahead!"
+> "We believe that NFTs are a great way to do brand acquisition and build the cult following. Galxe understood this thesis extremely well and have done an amazing job at catering to our needs and feedback and executed flawlessly despite the pressure.  Can't wait for many more collaborations that lie ahead!"
 
 Varun Kumar, CEO Hashflow
 
-That is why we got so excited when we met the Project Galaxy team this past summer; they are changing how truly Web3 companies grow, putting more growth arrows in the quiver. Project Galaxy is building an on-chain credential system using NFTs, providing protocols and DAOs with actionable data to acquire and retain users more effectively. Protocols can then leverage these indexed and curated data sets to set up various reward systems for their most loyal users. With the explosion in popularity of NFTs this year, the token is no longer the only game in town to incentivize positive user behavior.
+That is why we got so excited when we met the Galxe team this past summer; they are changing how truly Web3 companies grow, putting more growth arrows in the quiver. Galxe is building an on-chain credential system using NFTs, providing protocols and DAOs with actionable data to acquire and retain users more effectively. Protocols can then leverage these indexed and curated data sets to set up various reward systems for their most loyal users. With the explosion in popularity of NFTs this year, the token is no longer the only game in town to incentivize positive user behavior.

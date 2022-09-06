@@ -7,7 +7,7 @@ sidebar_position: 5
 
 ## What is Galaxy OAT?
 
-Galaxy OAT aims to be a light-weight solution for event organizers and community managers to utilize Project Galaxy’s NFT infrastructure and on-chain credential data network to build and distribute NFT badge campaigns easily and reward their community members. To put it simple, **Galaxy OATs (on-chain achievement tokens) are a digital record of all your life's achievements.**
+Galaxy OAT aims to be a light-weight solution for event organizers and community managers to utilize Galxe’s NFT infrastructure and on-chain credential data network to build and distribute NFT badge campaigns easily and reward their community members. To put it simple, **Galaxy OATs (on-chain achievement tokens) are a digital record of all your life's achievements.**
 
 > “We’re thrilled with the launch of Galaxy OAT - if 2021 was the breakthrough year for NFTs as culture, 2022 is the year for NFTs as utilities. On-chain credentials are powerful signaling tools for communities - and to be truly accessible require driving the cost of creation, storage, and bandwidth to be negligible. The immutable linking of IPFS and verifiable storage of Filecoin are ideal choices to support the massive amounts of NFT data communities will generate and ensure their data is never lost.” - Jonathan Victor, Growth Lead for NFT.Storage
 
@@ -15,7 +15,7 @@ Galaxy OAT aims to be a light-weight solution for event organizers and community
 
 Imagine the concert tickets or NBA tickets you bought or any events you’ve been to, come with an NFT, wouldn’t it be interesting to have a credential to showcase for it...
 
-- Event organizers can create their dedicated pages on [galaxy.eco](http://galaxy.eco/), create events and credentials just by submitting the parameters and the design of the badge.
+- Event organizers can create their dedicated pages on [galxe.com](http://galxe.com/), create events and credentials just by submitting the parameters and the design of the badge.
 - Users or event participants will be able to claim their NFTs just via their email with gas-less minting experience.
 - OAT is currently only available on Polygon in ERC-721, and will have native support with OpenSea and most of the wallet apps.
 - The metadata of all OAT NFTs will be stored on NFT.Storage powered by IPFS and Filecoin.
@@ -29,6 +29,6 @@ We foresee that Galaxy OAT will not only be limited to Loyalty Programs for NFT,
 
 ## Start your Galaxy OAT Experience
 
-**For event organizers, apply for beta access now** - [https://to.galaxy.eco/application](https://to.galaxy.eco/application)
+**For event organizers, apply for beta access now** - [https://gal.xyz/application](https://gal.xyz/application)
 
-**To learn more about how create an OAT event from Galaxy Dashboard, visit** [https://help.galaxy.eco/article/grda0qy4m3-step-5-kickstart-a-campaign](https://help.galaxy.eco/article/grda0qy4m3-step-5-kickstart-a-campaign)
+**To learn more about how create an OAT event from Galaxy Dashboard, visit** [https://help.galxe.com/article/grda0qy4m3-step-5-kickstart-a-campaign](https://help.galxe.com/article/grda0qy4m3-step-5-kickstart-a-campaign)

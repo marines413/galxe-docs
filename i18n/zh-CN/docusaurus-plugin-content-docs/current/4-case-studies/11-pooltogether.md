@@ -13,7 +13,7 @@ PoolTogether is a protocol for prize savings. Users deposit into the protocol in
 
 ### Solution
 
-The initial idea was to introduce NFTs to make the protocol fun to use even without winning money prizes. PoolTogether created the Pool Party Season 1 Campaign in collaboration with Project Galaxy. Using the Project Galaxy Mystery box, PoolTogether launched a collectible NFT campaign of 8 cards over the course of 8 weeks. Every week, community members had to accomplish different missions ranging from depositing in the Pool, liking tweets, and testing out new features such as the delegation feature.
+The initial idea was to introduce NFTs to make the protocol fun to use even without winning money prizes. PoolTogether created the Pool Party Season 1 Campaign in collaboration with Galxe. Using the Galxe Mystery box, PoolTogether launched a collectible NFT campaign of 8 cards over the course of 8 weeks. Every week, community members had to accomplish different missions ranging from depositing in the Pool, liking tweets, and testing out new features such as the delegation feature.
 
 ![poolpartyyy1.png](assets/poolpartyyy1.png)
 

@@ -16,7 +16,7 @@ Currently we support curating credentials through multiple data sources:
 
 ## CSV Credential File
 
-### Via Galaxy Dashboard
+### Via Galxe Dashboard
 
 - The user can see and select all credentials from any user while creating the space campaign, but on the “Credential” - “My Credential List” page, the user can only see and edit their own created credential list.
 - The user can download the existing whitelist file
@@ -52,9 +52,9 @@ More info [here](../../developer/guide/api-cred-items-update)
 
 ## Subgraph/GraphQL Credential Endpoint
 
-> 💡 We are adding Galaxy dashboard support to create subgraph Credentials in a self-serve fashion. Before that, please contact Galaxy team for assistance.
+> 💡 We are adding Galxe dashboard support to create subgraph Credentials in a self-serve fashion. Before that, please contact Galxe team for assistance.
 
-Subgraph and GraphQL typed Credentials consist of: endpoint, query, expression, and header. The only difference being subgraph is specific to the subgraphs hosted on [thegraph](https://thegraph.com/). Galaxy will send `query` to the `endpoint` with `header`, and process the returned data with `expression`. For example:
+Subgraph and GraphQL typed Credentials consist of: endpoint, query, expression, and header. The only difference being subgraph is specific to the subgraphs hosted on [thegraph](https://thegraph.com/). Galxe will send `query` to the `endpoint` with `header`, and process the returned data with `expression`. For example:
 
 endpoint:
 
@@ -93,7 +93,7 @@ When `expression` returns 1, the address we checked is now confirmed to have thi
 
 ## REST Credential Endpoint
 
-A REST typed credential endpoint consists of three parts: endpoint, header and expression. Similar to subgraph/graphql, Galaxy will send a `GET` request to the `endpoint` with `header`, and process the returned data with `expression`. For example:
+A REST typed credential endpoint consists of three parts: endpoint, header and expression. Similar to subgraph/graphql, Galxe will send a `GET` request to the `endpoint` with `header`, and process the returned data with `expression`. For example:
 
 endpoint (`$address` will be swapped out with the wallet address we need to check):
 

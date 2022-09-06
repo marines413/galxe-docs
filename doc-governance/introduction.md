@@ -6,9 +6,7 @@ slug: /
 
 # Governance Process
 
-_Project Galaxy DAO and GAL is NOT live. The following governance process will start to take effect right after the GAL token generation event._
-
-Project Galaxy DAO is controlled by GAL holders. GAL holders have the ability to control the amount of the Platform Fee collected by the protocol, and control funds held by the Project Galaxy Community Treasury. All proposals need to go through a three-step process described below. In order for a proposal to pass, it must have over 50% passing votes with endorsement from wallet addresses holding at least 2,000,000 GAL, with delegation allowed. When a proposal is passed, the changes will be implemented by Project Galaxy’s operation team and signed by the multi-sig, if necessary.
+Galxe DAO is controlled by GAL holders. GAL holders have the ability to control the amount of the Platform Fee collected by the protocol, and control funds held by the Galxe Community Treasury. All proposals need to go through a three-step process described below. In order for a proposal to pass, it must have over 50% passing votes with endorsement from wallet addresses holding at least 2,000,000 GAL, with delegation allowed. When a proposal is passed, the changes will be implemented by Galxe’s operation team and signed by the multi-sig, if necessary.
 
 ## Proposal
 
@@ -16,13 +14,13 @@ All proposals need to go through the following process:
 
 ### Phase 1: Temperature Check — Discourse
 
-The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo. To create a Temperature Check, ask a general, non-biased question to the community on [forum](https://to.galaxy.eco/dI1ew2) about a potential change (example: “Should Project Galaxy DAO launch a new achievement mining campaign?”). Temperature checks are informal. It is for you to use the feedback to decide if you want to proceed further with your proposal.
+The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo. To create a Temperature Check, ask a general, non-biased question to the community on [forum](https://gal.xyz/dI1ew2) about a potential change (example: “Should Galxe DAO launch a new achievement mining campaign?”). Temperature checks are informal. It is for you to use the feedback to decide if you want to proceed further with your proposal.
 
 ### Phase 2: Draft Proposal — Github
 
 The purpose of the Draft Proposal is to establish formal discussion around a potential proposal. To create a Draft Proposal
 
-1. [Fork](https://github.com/ProjectGalaxyHQ/galaxy-docs) the Galaxy Docs repository on Github
+1. [Fork](https://github.com/GalxeHQ/galxe-docs) the Galxe Docs repository on Github
 2. Add your GP to your fork of the repository, under folder `doc-governance/proposals/`
 3. Submit a Pull Request
 
@@ -39,7 +37,7 @@ Delegation is allowed through [this](https://snapshot.org/#/delegate/project-gal
 
 ## Implementation
 
-When a proposal is passed, the changes will be implemented by Project Galaxy’s operation team and signed by the multi-sig, if necessary.
+When a proposal is passed, the changes will be implemented by Galxe’s operation team and signed by the multi-sig, if necessary.
 
 ## Multi-signature Signers
 

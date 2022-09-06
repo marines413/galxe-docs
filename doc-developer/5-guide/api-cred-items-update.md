@@ -7,8 +7,8 @@ slug: api-cred-items-update
 
 ## Prerequisite
 
-1. First you need to create a credential that you want to use in your campaign. Please contact the galaxy BD team if you have no access/experience with galaxy dashboard before, they will help you to walk through the concepts of Project Galaxy dashboard and give you access.
-2. Then you will need an access token bound to your wallet address to use this API. Please go to the Project Galaxy user setting page to generate an access token.
+1. First you need to create a credential that you want to use in your campaign. Please contact the galaxy BD team if you have no access/experience with galaxy dashboard before, they will help you to walk through the concepts of Galxe dashboard and give you access.
+2. Then you will need an access token bound to your wallet address to use this API. Please go to the Galxe user setting page to generate an access token.
 
 ## Endpoint
 

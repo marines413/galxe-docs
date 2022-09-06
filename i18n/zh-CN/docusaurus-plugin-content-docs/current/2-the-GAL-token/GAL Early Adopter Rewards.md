@@ -7,11 +7,11 @@ sidebar_position: 2
 
 ![https://miro.medium.com/max/1400/1*bgi5CKBGCKRhJZui95VMOw.png](https://miro.medium.com/max/1400/1*bgi5CKBGCKRhJZui95VMOw.png)
 
-Since our launch in May 2021, the community has been crucial to the growth of Project Galaxy’s ecosystem. From curating credentials, collecting credentials, participating in campaigns, compiling tutorials, building third-party tools, helping out in Discord, the list goes on. We are grateful for our partners and the amazing campaigns they bring to life on our platform, however, we know that without our strong and dedicated community all of our success couldn’t be possible. Words can’t describe how much we appreciate and respect our community, so we wanted to thank you the best way we knew how: GAL Token Airdrop to reward our early adopters. Read more below to learn about the reward distribution details, the official airdrop date will be announced at a later time.
+Since our launch in May 2021, the community has been crucial to the growth of Galxe’s ecosystem. From curating credentials, collecting credentials, participating in campaigns, compiling tutorials, building third-party tools, helping out in Discord, the list goes on. We are grateful for our partners and the amazing campaigns they bring to life on our platform, however, we know that without our strong and dedicated community all of our success couldn’t be possible. Words can’t describe how much we appreciate and respect our community, so we wanted to thank you the best way we knew how: GAL Token Airdrop to reward our early adopters. Read more below to learn about the reward distribution details, the official airdrop date will be announced at a later time.
 
 ## Galaxy NFT Holder Reward Distribution Details
 
-The reward distribution system works in accordance with the NFTs a Galaxy community member holds. Holders of the Project Galaxy NFTs listed below are eligible for the GAL Early Adopters Reward. **If you hold multiple NFTs from the same category in one account, the NFT will only count once. The snapshot has been taken on April 28th 1am PST, [check the snapshot details here](https://github.com/ProjectGalaxyHQ/galaxy-airdrop). Airdrop claiming starts from May 5th, 2022 at 5am PST.**
+The reward distribution system works in accordance with the NFTs a Galaxy community member holds. Holders of the Galxe NFTs listed below are eligible for the GAL Early Adopters Reward. **If you hold multiple NFTs from the same category in one account, the NFT will only count once. The snapshot has been taken on April 28th 1am PST, [check the snapshot details here](https://github.com/GalxeHQ/galaxy-airdrop). Airdrop claiming starts from May 5th, 2022 at 5am PST.**
 
 Here is the reward breakdown:
 
@@ -30,16 +30,16 @@ Users in the tables above will be eligible to claim the airdrop (~3.65 million G
 The remaining GAL from the Early Adopters Reward allocation will reward to long term contributors in the Galaxy ecosystem:
 
 - A total of 63,100 GAL tokens will be distributed to community members who have Galaxy Brains and Galaxy Pathfinders roles in our Discord
-- A total of 5,000 GAL will reward to Steven Lei, a long-time Project Galaxy contributor and Galaxy Brain, who created the Galaxy Explorer which helped so many astronauts explore Web3 through Project Galaxy’s campaigns.
+- A total of 5,000 GAL will reward to Steven Lei, a long-time Galxe contributor and Galaxy Brain, who created the Galaxy Explorer which helped so many astronauts explore Web3 through Galxe’s campaigns.
 - A total of 200,000 GAL will reward to Pisces NFT holders in the Space Expedition Program.
-- Additionally, a total of 79,000 GAL tokens will be airdropped directly to 100 partners who have been growing along with Project Galaxy.
+- Additionally, a total of 79,000 GAL tokens will be airdropped directly to 100 partners who have been growing along with Galxe.
 
 *Due to legal restrictions, users from the U.S., Canada, China, Iran, Korea(North), Syrian Arab Republic, Cuba will NOT be able to claim the airdrop.*
 
 
 ## How to Claim
 
-- Visit galaxy.eco, connect your wallet
+- Visit galxe.com, connect your wallet
 - Click on the "Claim" button on the top right corner ![airdrop1](assets/airdrop1.png)
 - You can see how many $GAL tokens available for you to claim. Claiming starts from May 5th, 2022 5am PST ![airdrop2](assets/airdrop2.png)
 
@@ -48,7 +48,7 @@ The remaining GAL from the Early Adopters Reward allocation will reward to long 
 
 For example:
 
-- Alice has been on Project Galaxy since August 2021. By Feb 10th, Alice had the Shadowy Coder NFT, the Galaxy Girl NFT, and the Meta Cowboy lv1 and lv2. By the time of snapshot before TGE, Alice managed to mint the Meta Cowboy lv3 and kept all of the NFTs she acquired before. # of GAL token for Alice will be:
+- Alice has been on Galxe since August 2021. By Feb 10th, Alice had the Shadowy Coder NFT, the Galaxy Girl NFT, and the Meta Cowboy lv1 and lv2. By the time of snapshot before TGE, Alice managed to mint the Meta Cowboy lv3 and kept all of the NFTs she acquired before. # of GAL token for Alice will be:
 
   **Shadowy Coder + (Galaxy Girl Reindeer NFT x Meta Cowboy lv2 Boost) + Meta Cowboy lv1 + Meta Cowboy lv2 + Meta Cowboy lv3**
 
@@ -74,11 +74,11 @@ Yes. As long as you have the NFT at the time of the snapshot, you will be eligib
 
 **Why are there restrictions for users from certain regions to claim the NFT?**
 
-Project Galaxy is focused on solidifying ourselves long-term in the space, we are doing our best to be legally compliant since day 1. Because of this, users with IPs in the restricted regions will not be able to claim the airdrop tokens through the Project Galaxy website.
+Galxe is focused on solidifying ourselves long-term in the space, we are doing our best to be legally compliant since day 1. Because of this, users with IPs in the restricted regions will not be able to claim the airdrop tokens through the Galxe website.
 
 **When will the snapshot for NFT holders take place?**
 
-The snapshot has been taken on April 28th 1am PST. [Check the snapshot details here](https://github.com/ProjectGalaxyHQ/galaxy-airdrop). The TGE time is set to be May 5th, 2022 at 5am PST.
+The snapshot has been taken on April 28th 1am PST. [Check the snapshot details here](https://github.com/GalxeHQ/galaxy-airdrop). The TGE time is set to be May 5th, 2022 at 5am PST.
 
 **Will GAL airdrop be subject to any lockups?**
 

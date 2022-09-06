@@ -1,18 +1,17 @@
 ---
-sidebar_label: 概述
+sidebar_label: Protocol Overview
 sidebar_position: 1
 slug: /
 ---
+# Overview
 
-# 概述
+Galxe is the largest Web3 credential data network in the world. Built on open and collaborative infrastructure, Galxe helps Web3 developers and projects leverage credential data to build better products and communities. At the same time, data curators are rewarded when credentials are used in Galxe’s Application Modules, Credential Oracle Engine, and Credential API.
 
-Galxe is the largest Web3 credential data network in the world. Built on open and collaborative infrastructure, Galxe helps Web3 developers and projects leverage credential data to build better products and communities. At the same time, data curators are rewarded when credentials are used in Galaxy’s Application Modules, Credential Oracle Engine, and Credential API.
-
-## 我们的目标
+## Our Mission
 
 At Galxe, we are building the infrastructure to power an open and collaborative credential data network. We help Web3 developers leverage credential data to build better products and communities. At the same time, data curators contribute to our credential data network while earning income once the data is utilized.
 
-## 什么是数字凭证
+## What are digital credentials
 
 Credentials live in our day-to-day life. An example of on-chain credentials would be the record that you borrowed money from AAVE and Compound but never got liquidated. Your contribution to a protocol’s liquidity pool when it first launched, or your on-chain voting history are all credentials. All of your behavioral data in Web2 counts towards your credentials and companies like Google and Facebook run algorithms on your credentials so that they can send you targeted advertisements.
 
@@ -26,24 +25,24 @@ Credential data today is segregated across closed databases that are owned and p
 
 Galxe aims to build an open and collaborative credential data network that is accessible to all developers in Web3. We provide the infrastructure for community members to curate and contribute digital credentials to our data network. Our infrastructure supports curating credentials through multiple data sources. For on-chain credentials, curators can contribute with subgraph queries or static snapshots. For off-chain credentials, we have integrated with data sources such as [Snapshot.org](http://snapshot.org/), Twitter, and Github.
 
-By contributing to Galaxy’s Credential Data Network, curators are rewarded when credentials are used in Galaxy’s Application Modules, Credential Oracle Engine, and Credential API. Because there are users consuming (paying to use) data in our ecosystem, this incentivizes more users to come curate for our data network.
+By contributing to Galxe’s Credential Data Network, curators are rewarded when credentials are used in Galxe’s Application Modules, Credential Oracle Engine, and Credential API. Because there are users consuming (paying to use) data in our ecosystem, this incentivizes more users to come curate for our data network.
 
 To this day, over 100 partners have already launched over 500 campaigns on Galxe. here are some case studies to provide more info:
 
-* **Bootstrapping Community**: [How Hashflow used Galxe to turbo-charge to $600M of trading volume](https://docs.galxe.com/Into-The-Galaxy/3Gg3KWsGxJjFkbpjBxc6C7/Hashflow-DEX/4KodnDTqqWC13xrH1Pxmp9)
+* **Bootstrapping Community**: [How Hashflow used Galxe to turbo-charge to $600M of trading volume](https://docs.galxe.com/Into-The-Galxe/3Gg3KWsGxJjFkbpjBxc6C7/Hashflow-DEX/4KodnDTqqWC13xrH1Pxmp9)
 * **Customized Voting System**: [How Galxe Powered Customized Voting Strategy for MVB Program](https://www.binance.org/en/blog/mvbiii-forming-a-voting-committee-to-bring-decentralization-into-the-mvb-program/)
 * **Loyalty Program**: [Yearn Finance Introduces Woofy NFT on Galxe](https://blog.galxe.com/yearn-finance-introduces-woofy-nfts-on-project-galaxy-95bf7ece2493)
 * **Growth Hacking Campaign**: [Galxe 2021 End-of-year Rave](https://blog.galxe.com/growth-hacking-in-web3-2021-project-galaxy-eoy-rave-campaign-recap-946a7452930b)
 
 ![FlowChart.png](assets/FlowChart.png "Flow Chart")
 
-## Galaxy ID
+## Galxe ID
 
-With Galaxy Credentials, we will be able to build a Web3 DID system that not only gives you a multi-chain identity but also lets others know more about you through your past achievements/credentials. Projects like Cyberconnect, Unipass, and Salad Venture are already utilizing Galaxy Credentials within their products and we look forward to exploring this more in the future.
+With Galxe Credentials, we will be able to build a Web3 DID system that not only gives you a multi-chain identity but also lets others know more about you through your past achievements/credentials. Projects like Cyberconnect, Unipass, and Salad Venture are already utilizing Galxe Credentials within their products and we look forward to exploring this more in the future.
 
-## Build with Galaxy
+## Build with Galxe
 
-If you want to contribute credentials to the Galaxy data network, or leverage Galaxy Credentials in our product/community, you can apply for access for Closed Beta [here](https://gal.xyz/application). We are also hiring! If you are interested in becoming part of the history in building Web3 Credential Data Network, check out our job openings [here](https://gal.xyz/careers). We are super excited for the journey ahead.
+If you want to contribute credentials to the Galxe data network, or leverage Galxe Credentials in our product/community, you can apply for access for Closed Beta [here](https://gal.xyz/application). We are also hiring! If you are interested in becoming part of the history in building Web3 Credential Data Network, check out our job openings [here](https://gal.xyz/careers). We are super excited for the journey ahead.
 
 ## Join Galxe Community
 

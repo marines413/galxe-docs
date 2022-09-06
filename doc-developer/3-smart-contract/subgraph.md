@@ -6,7 +6,7 @@ sidebar_position: 2
 
 > 💁 Subgraph is a concept by The Graph, used to query blockchain data. The Graph is a protocol for building decentralized applications (dApps) quickly on Ethereum and IPFS using GraphQL. More infomation can be found in https://thegraph.com/docs/en/
 
-Galaxy uses multiple subgraphs for indexing and organizing data from out smart contracts. These subgraphs are hosted on The Graph hosted service and can be used to query our smart data.
+Galxe uses multiple subgraphs for indexing and organizing data from out smart contracts. These subgraphs are hosted on The Graph hosted service and can be used to query our smart data.
 
 ## Explorer
 

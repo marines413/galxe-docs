@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # GP-0
 
-GP stands for Galaxy Proposal. We adopted this process to ensure changes to Project Galaxy are transparent and well governed. This document serves as the template for future proposals.
+GP stands for Galxe Proposal. We adopted this process to ensure changes to Galxe are transparent and well governed. This document serves as the template for future proposals.
 
 ## Abstract
 

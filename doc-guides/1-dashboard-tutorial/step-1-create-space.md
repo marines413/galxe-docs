@@ -5,9 +5,9 @@ sidebar_position: 3
 
 # Step 1 - Create a Space
 
-## Create your dedicated space on Galaxy
+## Create your dedicated space on Galxe
 
-1. Click "Galaxy Space" from the left dropdown list
+1. Click "Galxe Space" from the left dropdown list
 2. Select "Create a New Space" to create a new space.
 3. Fill up the space information accordingly (*Introduction refers to Protocol/Project Description)
 4. Fill up the primary admin information (Primary Admin of Protocol/Project)

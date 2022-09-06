@@ -21,7 +21,7 @@
   },
   "link.item.label.Forum": {
     "message": "Forum",
-    "description": "The label of footer link with label=Forum linking to https://forum.galaxy.eco/"
+    "description": "The label of footer link with label=Forum linking to https://forum.galxe.com/"
   },
   "link.item.label.Proposals": {
     "message": "Proposals",
@@ -29,11 +29,11 @@
   },
   "link.item.label.Vote": {
     "message": "Vote",
-    "description": "The label of footer link with label=Vote linking to https://vote.galaxy.eco/"
+    "description": "The label of footer link with label=Vote linking to https://vote.galxe.com/"
   },
   "link.item.label.Github": {
     "message": "Github",
-    "description": "The label of footer link with label=Github linking to https://github.com/ProjectGalaxyHQ"
+    "description": "The label of footer link with label=Github linking to https://github.com/GalxeHQ"
   },
   "link.item.label.Developer Docs": {
     "message": "Developer Docs",
@@ -45,11 +45,11 @@
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
-    "description": "The label of footer link with label=Twitter linking to https://twitter.com/intent/follow?screen_name=ProjectGalaxyHQ"
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/intent/follow?screen_name=GalxeHQ"
   },
   "link.item.label.Telegram": {
     "message": "Telegram",
-    "description": "The label of footer link with label=Telegram linking to https://t.me/ProjectGalaxyHQ"
+    "description": "The label of footer link with label=Telegram linking to https://t.me/GalxeHQ"
   },
   "link.item.label.Docs": {
     "message": "Docs",
@@ -57,30 +57,30 @@
   },
   "link.item.label.Guides": {
     "message": "Guides",
-    "description": "The label of footer link with label=Guides linking to https://docs.galaxy.eco/guide"
+    "description": "The label of footer link with label=Guides linking to https://docs.galxe.com/guide"
   },
   "link.item.label.Blog": {
     "message": "Blog",
-    "description": "The label of footer link with label=Blog linking to https://blog.galaxy.eco/"
+    "description": "The label of footer link with label=Blog linking to https://blog.galxe.com/"
   },
   "link.item.label.Newsletter": {
     "message": "Newsletter",
-    "description": "The label of footer link with label=Newsletter linking to http://newsletter.galaxy.eco/"
+    "description": "The label of footer link with label=Newsletter linking to http://newsletter.galxe.com/"
   },
   "link.item.label.App": {
     "message": "App",
-    "description": "The label of footer link with label=App linking to https://galaxy.eco/"
+    "description": "The label of footer link with label=App linking to https://galxe.com/"
   },
   "link.item.label.Brand Assets": {
     "message": "Brand Assets",
-    "description": "The label of footer link with label=Brand Assets linking to https://to.galaxy.eco/brand"
+    "description": "The label of footer link with label=Brand Assets linking to https://gal.xyz/brand"
   },
   "link.item.label.Contact Support": {
     "message": "Contact Support",
-    "description": "The label of footer link with label=Contact Support linking to https://to.galaxy.eco/support"
+    "description": "The label of footer link with label=Contact Support linking to https://gal.xyz/support"
   },
   "copyright": {
-    "message": "© 2022 Project Galaxy",
+    "message": "© 2022 Galxe",
     "description": "The footer copyright"
   }
 }

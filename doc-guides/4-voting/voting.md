@@ -1,13 +1,13 @@
 ---
-sidebar_label: Custom Voting with Galaxy NFT
+sidebar_label: Custom Voting with Galxe NFT
 sidebar_position: 1
 slug: custom-voting-with-galaxy-nft
 ---
-# Custom Voting with Galaxy NFT
+# Custom Voting with Galxe NFT
 
 We utilize [Snapshot](https://snapshot.org/#/) for NFT voting, check the doc [Home - snapshot](https://docs.snapshot.org/) if you are unfamiliar with snapshot voting.
 
-To use NFTs claimed from Galaxy to vote, you can plug “galaxy-nft-with-score” strategy into your proposal to do so. For testing the strategy, please use the playground: <https://snapshot.org/#/playground/galaxy-nft-with-score>
+To use NFTs claimed from Galxe to vote, you can plug “galaxy-nft-with-score” strategy into your proposal to do so. For testing the strategy, please use the playground: <https://snapshot.org/#/playground/galaxy-nft-with-score>
 
 1. Choose chain: we only support Polygon for now.
 2. Input Snapshot: it’s same as block number, NFT ownership is count for that block number, so the voting power won’t be changed if NFT is transferred after block number.
@@ -28,7 +28,7 @@ To use NFTs claimed from Galaxy to vote, you can plug “galaxy-nft-with-score�
        ],
        "configs": [
          {
-           "name": "Basic", // NFT name of Galaxy
+           "name": "Basic", // NFT name of Galxe
            "cumulative": false, // If user have multiple same NFT, does the voting power cumulate.
            "votingPower": 1 // Voting power that this NFT has
          },

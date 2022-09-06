@@ -1,31 +1,31 @@
 ---
-sidebar_label: 'Set up Galaxy ID Profile'
+sidebar_label: 'Set up Galxe ID Profile'
 sidebar_position: 1
 ---
 
-# Set Up Your Galaxy ID Profile
+# Set Up Your Galxe ID Profile
 
-## What is Galaxy ID?
+## What is Galxe ID?
 
-To put this in the most simplest way as possible, Galaxy ID is aiming to become your on-chain LinkedIn. Project Galaxy is a miracle space where on-chain credentials float around, and we are now taking them to another level.
+To put this in the most simplest way as possible, Galxe ID is aiming to become your on-chain LinkedIn. Galxe is a miracle space where on-chain credentials float around, and we are now taking them to another level.
 
-For all the users on Galaxy,
+For all the users on Galxe,
 
-- Galaxy ID can be your universal username that will replace your wallet address in Web3.
+- Galxe ID can be your universal username that will replace your wallet address in Web3.
 - You can display the credentials collected in the Web3 world and showcase the history of your achievements.
-- Developer integration support: As a metaverse DID, developers can integrate Galaxy ID toolkit and offer customized features to users based on users' on-chain credentials. This will open up a lot of possibilities and redefine the future of Web3.
-- More features will be added, and soon you will be able to use the Galaxy ID in Project Galaxy's extensive partner network.
+- Developer integration support: As a metaverse DID, developers can integrate Galxe ID toolkit and offer customized features to users based on users' on-chain credentials. This will open up a lot of possibilities and redefine the future of Web3.
+- More features will be added, and soon you will be able to use the Galxe ID in Galxe's extensive partner network.
 
-## How to claim your Galaxy ID?
+## How to claim your Galxe ID?
 
 - Visit [https://galaxy.id](https://galaxy.id)
-- Hover to "Galaxy ID" on the top menu
+- Hover to "Galxe ID" on the top menu
 - Connect your wallet & set your username
-- Done - you will be able to see eligible credentials attached to your Galaxy ID
+- Done - you will be able to see eligible credentials attached to your Galxe ID
 
-## Edit your Galaxy ID in Settings
+## Edit your Galxe ID in Settings
 
-- After connect your wallet, visit [https://galaxy.eco/accountSetting](https://galaxy.eco/accountSetting), or click your profile on the top right corner and go to Settings
+- After connect your wallet, visit [https://galxe.com/accountSetting](https://galxe.com/accountSetting), or click your profile on the top right corner and go to Settings
 - In the Settings page, you can basically do 4 things:
     - Change usernames
     - Update the profile photo
@@ -48,7 +48,7 @@ Enter your email address and hit “Send a code”. You will soon receive an ema
 
 ### 4) To link Twitter accounts
 
-On Project Galaxy, we have specially designed the task-based campaign module w/ Twitter integration. It can be used to power various Twitter based campaigns, which also requires users to link their Twitter accounts to Galaxy ID.
+On Galxe, we have specially designed the task-based campaign module w/ Twitter integration. It can be used to power various Twitter based campaigns, which also requires users to link their Twitter accounts to Galxe ID.
 
 To accomplish that, simply follow the 2 steps after you click “Verify Twitter Account” Button.
 

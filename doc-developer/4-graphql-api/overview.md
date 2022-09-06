@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Overview
 
-Comprehensive reference for integrating with Project Galaxy GraphQL API endpoints
+Comprehensive reference for integrating with Galxe GraphQL API endpoints
 
 ## Endpoint URLs
 

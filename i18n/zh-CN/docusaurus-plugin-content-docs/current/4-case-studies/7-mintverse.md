@@ -9,11 +9,11 @@ sidebar_position: 7
 
 ## Challenge
 
-Mintverse was looking to create loyalty and growth hacking campaigns to reach more users and retain existing users with an emphasis on the Binance users, while improving their own transaction volume. On Project Galaxy’s side, we were looking for new secondary marketplaces for our users to trade on.
+Mintverse was looking to create loyalty and growth hacking campaigns to reach more users and retain existing users with an emphasis on the Binance users, while improving their own transaction volume. On Galxe’s side, we were looking for new secondary marketplaces for our users to trade on.
 
 ## Solution
 
-Using Project Galaxy infrastructure and network, Mintverse was able to bootstrap multiple campaigns by collaborating with many projects and creating the [BNB Chain NFT Spring Carnaval](https://galaxy.eco/Mintverse/). The BNB Chain NFT Spring Carnival had the objective to grow the communities and ecosystem of each participating project. For each partnership, users were prompted to do a specific task in exchange for a Project Galaxy OAT (On-chain Achievement Token).
+Using Galxe infrastructure and network, Mintverse was able to bootstrap multiple campaigns by collaborating with many projects and creating the [BNB Chain NFT Spring Carnaval](https://galxe.com/Mintverse/). The BNB Chain NFT Spring Carnival had the objective to grow the communities and ecosystem of each participating project. For each partnership, users were prompted to do a specific task in exchange for a Galxe OAT (On-chain Achievement Token).
 
 ![Untitled](assets/mintverse-oat.png)
 
@@ -27,6 +27,6 @@ Mintverse is a comprehensive NFT aggregator and marketplace consisting of produc
 
 **OAT**
 
-Galaxy OATs (On-Chain Achievement Tokens) are a creative solution to distribute NFT badges to communities as a record of participation. Brands and projects can use Project Galaxy’s infrastructure to create their own personalized OATs to reward their users. This includes anything from in-person events, various online interactions, or even AMA’s.
+Galaxy OATs (On-Chain Achievement Tokens) are a creative solution to distribute NFT badges to communities as a record of participation. Brands and projects can use Galxe’s infrastructure to create their own personalized OATs to reward their users. This includes anything from in-person events, various online interactions, or even AMA’s.
 
 Galaxy OATs are used for validation that a user performed an action or participated in a specific event. You can transfer or sell your OAT, but the record of the action is stored on the Galaxy Credential data network. Available on Polygon and BNB chains, OATs appear in all NFT marketplaces so you can show them off.

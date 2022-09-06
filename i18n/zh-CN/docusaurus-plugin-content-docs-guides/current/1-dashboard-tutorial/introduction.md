@@ -8,7 +8,7 @@ slug: /
 
 ## What is Galaxy Dashboard?
 
-International Space Station is the backbone to the grand universe exploration, and so is our Dashboard to Project Galaxy. Galaxy Dashboard is an easy-to-use yet powerful web editor for developers to make full use of our plug-and-play modules. You can curate credentials, power your own NFTs in metaverse, and launch campaigns by simply writing blogs.
+International Space Station is the backbone to the grand universe exploration, and so is our Dashboard to Galxe. Galaxy Dashboard is an easy-to-use yet powerful web editor for developers to make full use of our plug-and-play modules. You can curate credentials, power your own NFTs in metaverse, and launch campaigns by simply writing blogs.
 
 ## Kick start your first campaign on Galaxy:
 

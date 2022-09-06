@@ -5,12 +5,12 @@ sidebar_position: 5
 
 # Step 3 - Deploy an NFT Core Contract
 
-## About NFT Core on Galaxy Dashboard
+## About NFT Core on Galxe Dashboard
 
-- Users can deploy and view NFT contracts in their respective space on Galaxy Dashboard.
-- Galaxy supported network: BSC, ETHEREUM, MATIC, FANTOM
-- User-supported network: MATIC (For other chains, please contact Galaxy for assistance.)
-- The NFT Core on Galaxy Dashboard is a general NFT ERC 721 contract. (For ERC 1155, Non-transferrable, Fee/Capped module or any specific requirement, please contact Galaxy for assistance.)
+- Users can deploy and view NFT contracts in their respective space on Galxe Dashboard.
+- Galxe supported network: BSC, ETHEREUM, MATIC, FANTOM
+- User-supported network: MATIC (For other chains, please contact Galxe for assistance.)
+- The NFT Core on Galxe Dashboard is a general NFT ERC 721 contract. (For ERC 1155, Non-transferrable, Fee/Capped module or any specific requirement, please contact Galxe for assistance.)
 
 ## Deploy a new NFT contract
 

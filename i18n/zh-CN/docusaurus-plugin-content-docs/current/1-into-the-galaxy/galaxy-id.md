@@ -7,14 +7,14 @@ sidebar_position: 4
 
 > Make yourself the main character
 
-To put this in the most simplest way as possible, Galaxy ID is aiming to become your Web3 LinkedIn. Project Galaxy is a miracle space where digital credentials float around, and we are now taking them to another level.
+To put this in the most simplest way as possible, Galaxy ID is aiming to become your Web3 LinkedIn. Galxe is a miracle space where digital credentials float around, and we are now taking them to another level.
 
 For all the users on Galaxy,
 
 - Galaxy ID can be your universal username that will represent your multichain/multiwallet identities in Web3.
 - You can display the credentials collected in the Web3 world and showcase the history of your achievements.
 - As a metaverse DID, developers can integrate Galaxy ID toolkit and offer customized features to users based on their digital credentials, or simply enrich user profiles in the product. This will open up a lot of possibilities and redefine the future of Web3.
-- More features will be added, and soon you will be able to use the Galaxy ID in Project Galaxy's extensive partner network.
+- More features will be added, and soon you will be able to use the Galaxy ID in Galxe's extensive partner network.
 
 ## Claim your Galaxy ID
 
@@ -29,7 +29,7 @@ You will be able to link one EVM wallet, and one Solana wallet with your Galaxy 
 
 ## Twitter integration
 
-On Project Galaxy, we have specially designed the task-based campaign module w/ Twitter integration. It can be used to power various Twitter based campaigns, which also requires users to link their Twitter accounts to Galaxy ID.
+On Galxe, we have specially designed the task-based campaign module w/ Twitter integration. It can be used to power various Twitter based campaigns, which also requires users to link their Twitter accounts to Galaxy ID.
 
 To accomplish that, simply follow the 2 steps after you click “Verify Twitter Account” Button.
 
