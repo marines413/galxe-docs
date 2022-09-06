@@ -27,7 +27,7 @@ CoinGecko is the world’s leading independent cryptocurrency aggregator and has
 
 **About Galxe**
 
-Galxe is the largest Web3 credential data network in the world. Built on open and collaborative infrastructure, Galxe helps developers and organizations leverage NFTs and digital credential data to build better products and communities in Web3. 
+Galxe is the leading Web3 credential data network in the world. A collaborative credential infrastructure enabling brands and developers to engage communities and build robust products in Web3.
 
 **Galxe** **OAT**
 
