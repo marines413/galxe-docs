@@ -3,7 +3,15 @@ sidebar_label: "Galxe Passport"
 sidebar_position: 6
 ---
 
-# FAQ
+# Galxe Passport
+
+## What is Galxe Passport?
+
+Galxe Passport is your universal identity for Web3 adventures. It stores your identity information securely and anonymously. You will be able to use this as your universal identity across different applications for compliance purposes. You will also get your unique Galxe Passport Soubound Token in your wallet to be distinguished as a verified individual. Enabling our partners to prevent Sybil attacks.
+
+Galxe Passport was created to be a secure, private way for users to store data. Users’ private information will be encrypted with their password. These data are only accessible to the user, all others (including Galxe) can only access these data upon the user’s permission. Users who want to obtain a Soulbound Token can do so by going through the verification process on Galxe which will then allow them to mint and claim the Galxe Passport Token.
+
+## FAQ
 
 Q: How will my identity information be stored?
 
