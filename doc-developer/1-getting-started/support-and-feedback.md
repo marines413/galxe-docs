@@ -1,5 +1,7 @@
 ---
+sidebar_label: Support and Feedback
 sidebar_position: 3
+slug: support-and-feedback
 ---
 
 # Support and Feedback
