@@ -11,6 +11,151 @@ Galxe Passport is your universal identity for Web3 adventures. It stores your id
 
 Galxe Passport was created to be a secure, private way for users to store data. Users’ private information will be encrypted with their password. These data are only accessible to the user, all others (including Galxe) can only access these data upon the user’s permission. Users who want to obtain a Soulbound Token can do so by going through the verification process on Galxe which will then allow them to mint and claim the Galxe Passport Token.
 
+## Technical documentation
+
+Galxe Passport was designed on the principle that you have the right to your personal information — you should get to decide where, how, and with whom it’s shared. You should also be able to prove your personhood. We are committed to protecting your privacy and we have built Galxe Passport with control, security, and transparency in mind. In this section, we will describe in detail how we process and store encrypted user PII (Personal Identifiable Information).
+
+### Tenets
+
+1. Galxe Passport’s PII should be fully managed by their owners and kept private safely - your data is never stored in plain text and will not be accessible by anyone (including Galxe) without your explicit permission.
+2. Owners can share their Galxe Passport data with external parties under strict consent by the owners only - using valid, non-replayable signatures and client side decryption with user password.
+3. When external parties receive Galxe Passport data, they should be able to verify its data integrity.
+
+### Data Flow
+
+### 1 - Persona identity verification
+
+Persona is the third-party vendor that helps run algorithms and check whether your ID is valid. They collect the identity information directly from you because they need to provide identity verification.
+
+When a user is prompted with a Persona inquiry embedded on galxe.com, we generate an UUID for the user and pass it to Persona. Persona uses this UUID to uniquely identifies a person, and group all inquiries under the same UUID together. For now this UUID is stored in our database as user’s “Persona ID”, and will be subsequently deleted from our database as soon as the Persona inquiry is approved and user creates their passport.
+
+When the inquiry is approved, Persona informs Galxe and user now proceeds to the next step: constructing the Galxe passport.
+
+### 2 - Constructing Galxe Passport
+
+User on Galxe is now guided to construct Galxe Passport from PII collected from their approved inquiry on Persona. There are 3 steps with two separate signatures needed:
+
+1. (signing needed) Retrieve PII from Persona, signed by Galxe witness to ensure its integrity - let’s call this a signed credential
+2. Encrypt signed credential using user’s own strong password of choice
+3. (signing needed) Pass the encrypted data back to Galxe for storage, and create the Galxe Passport
+
+### 2.1 - Retrieving PII from Persona
+
+Using the UUID (Persona ID) generated for the user, we are able to retrieve the complete inquiry information from Persona. Example:
+
+```json
+{
+  "data": {
+    "type": "inquiry",
+    "id": "inq_12345",
+    "attributes": {
+      "status": "approved",
+      "reference-id": "12345678-1234-5678-1234-123456789012", // example UUID
+      "name-first": "John",
+      "name-last": "Doe",
+      "birthdate": "1977-07-17",
+      "identification-number": "I1234562",
+            ...
+    },
+  },
+  "included": [
+    {
+      "type": "verification/government-id",
+      "attributes": {
+        "status": "passed",
+        "country-code": "US",
+        "front-photo-url": "https://withpersona.com/api/v1/files/123.jpg",
+        "back-photo-url": "https://withpersona.com/api/v1/files/456.jpg",
+        "id-class": "dl",
+        "name-first": "John",
+          "name-last": "Doe",
+          "birthdate": "1977-07-17",
+          "identification-number": "I1234562",
+                ...
+      }
+    },
+    {
+      "type": "verification/selfie",
+      "attributes": {
+        "status": "passed",
+        "left-photo-url": "https://withpersona.com/api/v1/files/123/left_photo_processed.jpg",
+        "center-photo-url": "https://withpersona.com/api/v1/files/456/center_photo_processed.jpg",
+        "right-photo-url": "https://withpersona.com/api/v1/files/789/right_photo_processed.jpg",
+                ...
+            }
+    },
+  ]
+}
+
+```
+
+Galxe proceeds to first clean up the data into our own Galxe Passport format. Example:
+
+```json
+{
+  'evm-address': '0x1234567890123456789012345678901234567890',
+  governmentIDs: [
+    {
+      'first-name': 'John',
+      'last-name': 'Doe',
+      birthdate: '1977-07-17',
+      nationality: '',
+      'document-number': '',
+      sex: '',
+      'country-code': 'US',
+      'id-class': 'dl',
+      'front-photo-key': 'https://withpersona.com/api/v1/files/123.jpg',
+      'back-photo-key': 'https://withpersona.com/api/v1/files/456.jpg',
+      'identification-number': 'I1234562'
+    }
+  ],
+  selfie: {
+    'left-photo-key': 'https://withpersona.com/api/v1/files/123/left_photo_processed.jpg',
+    'center-photo-key': 'https://withpersona.com/api/v1/files/456/center_photo_processed.jpg',
+    'right-photo-key': 'https://withpersona.com/api/v1/files/789/right_photo_processed.jpg',
+  },
+  'passport-version': 'v1.1',
+  'persona-id': '12345678-1234-5678-1234-123456789012'
+}
+```
+
+Note that persona photo url is not publicly accessible.
+
+Galxe then runs the following steps:
+
+1. Generate a 32-byte `salt` from a crypto-safe random number generator
+2. Marshal (`user_address`, `salt`, `passport_data`) into `canon_json_str`, a canonical JSON string, then compute its hash using `hash = keccak256(cannon_json_str)`
+3. Ask Galxe witness to sign the hash: `signature = ECDSA.sign(witness_priv_key, hash)`
+4. Constructed signed credential `signed_cred = json.Marshal(SignedCred{Body: canon_json_str, Signature: signature})`
+5. Return `signed_cred` to frontend
+
+### 2.2 - User encryption on Galxe frontend
+
+On Galxe frontend, user now inputs their strong password of choice to encrypt the signed credential using `AES-256-GCM`. Example code:
+
+```jsx
+const password_str = "strong_password_omg";
+// use the 32-byte hash from a SHA256 on user’s password of choice
+const password = keccak256(password_str);
+const iv = crypto.randomBytes(12);
+const cipher = crypto.createCipheriv("aes-256-gcm", password, iv);
+const encrypted = cipher.update(signed_cred);
+cipher.final('base64');
+const data = "0x" + Buffer.concat([iv, encrypted, cipher.getAuthTag()]).toString("hex");
+```
+
+Note that all user data is encrypted with your password. Galxe does not have access to and cannot view or share your information without your permission and password. Galxe does not have the password to decrypt the encrypted PII. At this point, the user is ready to proceed to the next step.
+
+### 2.3 - Create Galxe Passport using the user encrypted data
+
+In this step, user signs another message with their wallet and pass the encrypted data back to Galxe for storage, and create the Galxe Passport. Once this is completed, Galxe deletes the UUID that links Persona’s identity information to your evm address. Now the only place that UUID exists outside Persona is inside your encrypted Galxe Passport.
+
+### 3 - Mint Galxe Passport Soulbound Token
+
+Once Galxe Passport is created and safely stored, the owner user can now mint the Galxe Passport SBT - a non-transferrable NFT that marks this user’s verification completion status through Galxe. SBT contract can be found under: [https://bscscan.com/address/0xe84050261cb0a35982ea0f6f3d9dff4b8ed3c012](https://bscscan.com/address/0xe84050261cb0a35982ea0f6f3d9dff4b8ed3c012)
+
+Tokens in this contract do not contain any PII. Their main purposes is for other partners on Galxe to use as a proof-of-human mechanism for sybil attack prevention.
+
 ## FAQ
 
 Q: How will my identity information be stored?
