@@ -5,7 +5,7 @@ slug: step-3-deploy-core
 ---
 # Step 3 - Deploy an NFT Contract
 
-## About NFT Core on Galxe Dashboard
+## About NFT Contract on Galxe Dashboard
 
 * Users can deploy and view NFT contracts in their respective space on Galxe Dashboard.
 * Galxe supported network on dashboard: BNB CHAIN, Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Moonbeam, Optimism, IoTex
@@ -26,13 +26,11 @@ slug: step-3-deploy-core
 
 ![](assets/tokentracker.png)
 
-
 <br> c. Select the desired Network (Chain) to deploy your NFT contract
 <br> d. Activate Transferrable if you’d like the NFTs created on this contract to be transferrable/tradable
 <br> e. Click "Deploy"
 
 ![](assets/DeployContract.png)
-
 
 <br> f. Confirm to deploy the contract by clicking "Sign" on the signature request
 <br> g. Proceed to pay for the transaction to deploy a contract successfully
