@@ -1,7 +1,7 @@
 ---
 sidebar_label: Step 3 - Deploy NFT Contract
 sidebar_position: 5
-slug: step-3-deploy-contract
+slug: step-3-deploy-core
 ---
 # Step 3 - Deploy an NFT Contract
 
