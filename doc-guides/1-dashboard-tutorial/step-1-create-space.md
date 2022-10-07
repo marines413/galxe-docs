@@ -9,7 +9,7 @@ slug: step-1-create-space
 
 1. Hover over your Galxe profile icon in top right then click "My Spaces" 
 
-![MySpaces.png](assets/MySpaces.png)
+![MySpaces.png](assets/MySpaces.png "My Spaces")
 
 2. Click "Create Space" to proceed
 
