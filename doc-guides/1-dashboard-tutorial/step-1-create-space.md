@@ -7,7 +7,7 @@ slug: step-1-create-space
 
 ## Create your dedicated space on Galxe
 
-1. Hover over your Galxe profile icon in top right then click "My Spaces" 
+1. For partners looking to create and edit a new space on the Galxe dashboard, look no further! A space is where all of your growth campaigns will live on our site. To create a space, hover over your Galxe profile icon at the top right then click "My Spaces"
 
 ![MySpaces.png](assets/MySpaces.png "My Spaces")
 
