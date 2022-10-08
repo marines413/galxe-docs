@@ -1,5 +1,5 @@
 ---
-sidebar_label: Step 5 - Kickstart a Campaign
+sidebar_label: Step 4 - Kickstart a Campaign
 sidebar_position: 6
 slug: /
 ---
