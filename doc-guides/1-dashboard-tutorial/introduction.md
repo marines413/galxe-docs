@@ -14,8 +14,7 @@ International Space Station is the backbone to the grand universe exploration, a
 1. [Set up a space on Galxe](step-1-create-space.md)
 2. [Curate the credential](step-2-curate-credentials.md)
 3. [Deploy an NFT Contract](step-3-deploy-core.md)
-4. [Upload an NFT template](step-4-upload-nft-template.md)
-5. [Kickstart your campaign!](step-5-kickstart-campaign.md)
+4. [Kickstart your campaign!](step-5-kickstart-campaign.md)
 
 ## A Hitchhiker guide to Galxe Dashboard
 
