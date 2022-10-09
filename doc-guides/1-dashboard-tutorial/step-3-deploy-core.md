@@ -34,7 +34,3 @@ slug: step-3-deploy-contract
 
 <br> f. Confirm to deploy the contract by clicking "Sign" on the signature request
 <br> g. Proceed to pay for the transaction to deploy a contract successfully
-
-## Tutorial Video For NFT Core Contract Deployment
-
-<https://youtu.be/y0tdAnlH92Q>
