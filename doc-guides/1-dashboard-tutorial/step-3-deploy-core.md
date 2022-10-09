@@ -1,7 +1,7 @@
 ---
 sidebar_label: Step 3 - Deploy NFT Contract
 sidebar_position: 5
-slug: step-3-deploy-core
+slug: step-3-deploy-contract
 ---
 # Step 3 - Deploy an NFT Contract
 
@@ -34,7 +34,3 @@ slug: step-3-deploy-core
 
 <br> f. Confirm to deploy the contract by clicking "Sign" on the signature request
 <br> g. Proceed to pay for the transaction to deploy a contract successfully
-
-## Tutorial Video For NFT Core Contract Deployment
-
-<https://youtu.be/y0tdAnlH92Q>
