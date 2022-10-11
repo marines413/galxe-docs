@@ -1,7 +1,7 @@
 ---
 sidebar_label: Step 1 - Create a Space
 sidebar_position: 3
-slug: step-1-create-space
+slug: /
 ---
 # Step 1 - Create a Space
 
