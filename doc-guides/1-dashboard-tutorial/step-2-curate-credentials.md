@@ -16,8 +16,6 @@ Currently we support curating credentials including:
 * S﻿napshot 
 * G﻿ithub
 
-
-
 ## EVM Address Credential
 
 > The EVM Credential is designed to provide proof that a user has completed a task on a perspective EVM Chain. EVM Chain examples: Ethereum, BNB CHAIN, Polygon, Arbitrum, Optimism, Moonbeam etc. 
@@ -28,11 +26,11 @@ To create this credential, go to your profile avatar (top right), click onto Cur
 
 ![](assets/evm-address.png)
 
-💡The user can see and select all credentials from any user while creating the space campaign, but on the “Curated Credentials” page, the user can only see and edit their own created credential list.
+💡 The user can see and select all credentials from any user while creating the space campaign, but on the “Curated Credentials” page, the user can only see and edit their own created credential list.
 
 ### Credential Source
 
-Under Credential Source, select the relevant type for your project.
+Under Credential Source, select the relevant type:
 
 ![](assets/credentialsource.png)
 
@@ -73,7 +71,7 @@ This section should include the JavaScript Code used to convert the above Query 
 
 ![](assets/expression.png)
 
-M﻿ore examples for subgraph source, please refer to:
+M﻿ore examples for subgraph source credential, please refer to: 
 
 [](https://galaxy.eco/credential/509)<https://galaxy.eco/credential/509>
 
@@ -101,8 +99,6 @@ Compulsory items to include, which cannot be edited once created (circled in gre
 
 💡 ﻿The Google Sheet URL (link) cannot be altered once it has been synced to create a credential
 
-
-
 ## Twitter Credentials
 
 The Twitter option is chosen for Twitter-related actions. Such actions include: Follow, Retweet, Space, Like, and Quote Tweets.
@@ -118,8 +114,6 @@ The Twitter Follow action requires users to follow a Twitter account.
 💡 It would be best to create the Twitter Follow Credential about 1 to 3 days before the campaign release. After the setup, the sync rate will be 10k data per hour.
 
 💡Please input the full link of the Twitter account. We don’t support detecting Twitter handle at the moment
-
-
 
 ### Twitter Retweet and Like Actions
 
@@ -142,8 +136,6 @@ The Twitter space action requires users to participate in a Twitter Space.
 * Host and speakers can not be captured.
 * Due to Twitter restrictions, we can only issue this credential to at most **1000** participants. The longer they listen, the more likely they can get the credential. 
 
-
-
 ### Twitter Quote Tweet Action
 
 The Twitter Quote Tweet action requires users to quote a tweet. 
@@ -158,15 +150,9 @@ b. Hashtags: Required in the quote tweet. You may enter up to 3 hashtags
 
 c. Mention: Select the minimum number of Twitter accounts a user has to mention to be eligible for the credential
 
-
-
-
-
 ## Discord Credentials
 
 > The Discord option is chosen for Discord-related formats. There are **two types**: 1) Discord Voice Channel and 2) Discord Member
-
-
 
 ### 1. Discord Voice Channel (a.k.a AMA)
 
@@ -203,11 +189,8 @@ Thereafter,
 
 💡 The Specific Discord Member Credential role cannot be tracked automatically. In order for users to claim and track the specific **Discord member** role, users have to:
 
-A. Bind their DiscordID to their GalxeID 
-
-B. Visit the respective campaign or credential page, and click refresh
-
-
+* Bind their DiscordID to their GalxeID 
+* Visit the respective campaign or credential page, and click refresh
 
 ## Email credential
 
@@ -265,15 +248,11 @@ Wondering how to create a Snapshot Credential for your community but don’t kno
 
 1. **Title, Description** and **Reference Link** as per details
 
-
-
 ## Github contributor credential
 
 > 💡 **What is a Github credential?**
 >
 > Github credentials are used to identify contributions based on commits on Github public repo.
-
-
 
 **Step 1 -** Copy and paste Github Public Repo URL
 
