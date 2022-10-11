@@ -1,7 +1,7 @@
 ---
 sidebar_label: Step 1 - Create a Space
 sidebar_position: 3
-slug: /
+slug: step-1-create-space
 ---
 # Step 1 - Create a Space
 
@@ -16,14 +16,14 @@ slug: /
 ![CreateSpace.png](assets/CreateSpace.png)
 
 3. Fill up the space information accordingly (*Introduction refers to Protocol/Project Description) 
-   <br>a. Fill up the name of your project
-   <br>b. Upload a 1:1 aspect ratio logo (jpg or png format)
-   <br>c. Fill up a brief introduction of your project
-   <br>d. URL for your Space on Galxe
-   <br>e. Fill up the primary admin wallet address for the Space and click “+” to add (Primary Admin of Protocol/Project)
-   <br>f. Input official links to your projects
-   <br>g. Click "Create"
-   <br>h. Confirm to create space by clicking "Sign" on the signature request
+   a. Fill up the name of your project
+   b. Upload a 1:1 aspect ratio logo (jpg or png format)
+   c. Fill up a brief introduction of your project
+   d. URL for your Space on Galxe
+   e. Fill up the primary admin wallet address for the Space and click “+” to add (Primary Admin of Protocol/Project)
+   f. Input official links to your projects
+   g. Click "Create"
+   h. Confirm to create space by clicking "Sign" on the signature request
 
 ![SpaceInfo.png](assets/SpaceInfo.png)
 

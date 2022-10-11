@@ -1,7 +1,7 @@
 ---
 sidebar_label: Step 4 - Kickstart a Campaign
 sidebar_position: 6
-slug: /
+slug: step-4-kickstart-campaign
 ---
 # Step 4 - Kickstart a Campaign
 

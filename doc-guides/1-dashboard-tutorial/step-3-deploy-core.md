@@ -21,16 +21,20 @@ slug: step-3-deploy-contract
 
 ![](assets/ContractInfo.png)
 
-<br> a. Fill up the name of an NFT Contract (For e.g. Galxe NFT)
-<br> b. Input symbol(Token Tracker) for the NFT contract. (e.g. Galxe OAT)
+a. Fill up the name of an NFT Contract (For e.g. Galxe NFT)
+
+b. Input symbol(Token Tracker) for the NFT contract. (e.g. Galxe OAT)
 
 ![](assets/tokentracker.png)
 
-<br> c. Select the desired Network (Chain) to deploy your NFT contract
-<br> d. Activate Transferrable if you’d like the NFTs created on this contract to be transferrable/tradable
-<br> e. Click "Deploy"
+c. Select the desired Network (Chain) to deploy your NFT contract
+
+d. Activate Transferrable if you’d like the NFTs created on this contract to be transferrable/tradable
+
+e. Click "Deploy"
 
 ![](assets/DeployContract.png)
 
-<br> f. Confirm to deploy the contract by clicking "Sign" on the signature request
-<br> g. Proceed to pay for the transaction to deploy a contract successfully
+f. Confirm to deploy the contract by clicking "Sign" on the signature request
+
+g. Proceed to pay for the transaction to deploy a contract successfully
