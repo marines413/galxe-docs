@@ -1,17 +1,17 @@
 ---
 sidebar_label: Step 3 - Deploy NFT Contract
 sidebar_position: 5
-slug: Deploy NFT Contract
+slug: step-3-deploy-nft-contract
 ---
-# How to create a NFT contract[](https://docs.galxe.com/guide/dashboard-tutorial/step-3-deploy-core#about-nft-core-on-galxe-dashboard)
+# How to create a NFT contract
 
 ## **About NFT Contract on Galxe Dashboard**
 
 * Users can deploy and view NFT contracts in their respective space on Galxe Dashboard.
 * Galxe supported network on dashboard: BNB CHAIN, Ethereum, Polygon, Fantom, Arbitrum, Avalanche, Moonbeam, Optimism, IoTex
-* The NFT Contract on Galxe Dashboard is a general NFT ERC 721 contract. (For ERC 1155, Non-transferrable, Fee/Capped module or any specific requirement, please contact Galxe for assistance.) </aside>
+* The NFT Contract on Galxe Dashboard is a general NFT ERC 721 contract. (For ERC 1155, Non-transferrable, Fee/Capped module or any specific requirement, please contact Galxe for assistance.)
 
-## Deploy a new NFT contract[](https://docs.galxe.com/guide/dashboard-tutorial/step-3-deploy-core#deploy-a-new-nft-contract)
+## Deploy a new NFT contract
 
 1. Click "Create NFT Contract"
 
