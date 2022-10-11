@@ -16,7 +16,9 @@ Currently we support curating credentials including:
 * S﻿napshot 
 * G﻿ithub
 
-### EVM Address Credential
+
+
+## EVM Address Credential
 
 > The EVM Credential is designed to provide proof that a user has completed a task on a perspective EVM Chain. EVM Chain examples: Ethereum, BNB CHAIN, Polygon, Arbitrum, Optimism, Moonbeam etc. 
 
@@ -101,13 +103,13 @@ Compulsory items to include, which cannot be edited once created (circled in gre
 
 
 
-### Twitter Credential
+## Twitter Credentials
 
 The Twitter option is chosen for Twitter-related actions. Such actions include: Follow, Retweet, Space, Like, and Quote Tweets.
 
 ![](assets/twitterinfo.png)
 
-#### Twitter Follow Action
+### Twitter Follow Action
 
 The Twitter Follow action requires users to follow a Twitter account. 
 
@@ -119,7 +121,7 @@ The Twitter Follow action requires users to follow a Twitter account.
 
 
 
-#### Twitter Retweet and Like Actions
+### Twitter Retweet and Like Actions
 
 The Twitter Retweet and Like action requires users to retweet and like a tweet respectively.
 
@@ -127,7 +129,7 @@ The Twitter Retweet and Like action requires users to retweet and like a tweet r
 
 *E.g.*<https://galxe.com/smoothie/campaign/GCsozUt9UW>
 
-#### Twitter Space Action
+### Twitter Space Action
 
 The Twitter space action requires users to participate in a Twitter Space.
 
@@ -142,7 +144,7 @@ The Twitter space action requires users to participate in a Twitter Space.
 
 
 
-#### Twitter Quote Tweet Action
+### Twitter Quote Tweet Action
 
 The Twitter Quote Tweet action requires users to quote a tweet. 
 
@@ -158,49 +160,42 @@ c. Mention: Select the minimum number of Twitter accounts a user has to mention 
 
 
 
-### Discord Credentials
+
+
+## Discord Credentials
 
 > The Discord option is chosen for Discord-related formats. There are **two types**: 1) Discord Voice Channel and 2) Discord Member
 
-#### 1. Discord Voice Channel (a.k.a AMA)
 
-##### **About Discord Voice Channel**
 
-* This Discord Voice Channel tracks Discord IDs instead of wallet addresses. It would be tracked automatically. And the credential will be updated immediately after participants leave the AMA channel.
+### 1. Discord Voice Channel (a.k.a AMA)
 
-  * Users have to link their Discord to their Galxe ID to claim it. Once linked, users will need to proceed to the campaign page, in order for the credential to detect that their discord account has been included under the special role.
-  * The user will need to go to the project’s campaign page. A backtracking mechanism is adopted to see if this user is eligible.
-
-💡 **Galxe ID** is essentially a universal username that represents your multi-chain / multi-wallet identities in Web3.
-
-**Claiming your GalxeID**
-
-1. Visit [](https://galxe.com/galxeid/)<https://galxe.com/galxeid/>
-2. Hover to "Galxe ID" on the top menu
-3. Connect your wallet and set your username
-4. Done 🎉 - you will now be able to see eligible credentials attached to your Galxe ID
+> **About Discord Voice Channel**
+>
+> This Discord Voice Channel tracks Discord IDs instead of wallet addresses automatically. The credential will be updated immediately after participants leave the AMA channel .
+>
+> E.g. participants tuning to the AMA for 15 mins consecutively will be able\
+> to claim an OAT or NFT
 
 You will first need to add [Galxe Discord Bot](https://discord.com/oauth2/authorize?client_id=947863296789323776&scope=bot&permissions=2148598848) to your Server.
 
-💡 **Galxe Discord Bot** allows the following to be tracked and exported into credentials: • Discord Followers • Discord Specific Roles / Channel • Discord AMA (Eg. participants tuning to the AMA for 15 mins consecutively will be able\
-to claim an OAT or NFT) • Discord Messaging (members who messaged xx no. of times)
-
-
-
 Thereafter, fill up the following details:
 
-1. Select your **Discord Server** and **AMA Channel**
-2. **Participation Period:** Set the participation time period that you want users to join your voice channel. Select the period based on your device time.
-3. **Minimum Participation Time:** Set the minimum continuous listening time to satisfy credentials
-4. **Title, Description** and **Reference Link** as per details
+a. Select your **Discord Server** and **AMA Channel**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d00d7526-c746-4c52-a102-6c0765677fe1/Untitled.png)
+b. **Participation Period:** Set the participation time period that you want users to join your voice channel. Select the period based on your device time.
 
-#### 2. Discord Members
+c. **Minimum Participation Time:** Set the minimum continuous listening time to satisfy credentials
 
-You will first need to add Galxe Discord Bot to your Server.
+d. **Title, Description** and **Reference Link** as per details
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/536e7f53-c0e7-483c-9fea-d4ec972dd4e3/Untitled.png)
+![](assets/dcama.png)
+
+### 2. Discord Members
+
+You will first need to add [Galxe Discord Bot](https://discord.com/oauth2/authorize?client_id=947863296789323776&scope=bot&permissions=2148598848) to your Server.
+
+![](assets/dcmember.png)
 
 Thereafter,
 
@@ -208,4 +203,90 @@ Thereafter,
 
 💡 The Specific Discord Member Credential role cannot be tracked automatically. In order for users to claim and track the specific **Discord member** role, users have to:
 
-A. Bind their DiscordID to their GalxeID B. Visit the respective campaign or credential page, and click refresh
+A. Bind their DiscordID to their GalxeID 
+
+B. Visit the respective campaign or credential page, and click refresh
+
+
+
+## Email credential
+
+> 💡Wondering how to create an Email Credential for your community but don’t know where to start? This Credential is designed to credential a user’s email for specific tasks. Create this credential by…
+
+1. Input **Title, Description** and **Reference Link**
+2. **Credential Source:** *via Snapshot or Google Sheet*
+
+![](assets/email.png)
+
+### Credential Source
+
+Under **Credential Source**, select the relevant type.
+
+#### 1. Snapshot
+
+* Step 1: The user can easily upload addresses in batches at once with the following file requirements:
+
+  * The file needs to be CSV format (Without Comma)
+  * Each address must not be duplicated
+  * The file should not contain headers
+* Step 2: Please find here a screenshot example of a CSV template
+
+  ![](assets/csvtemplate.png)
+* Step 3: Upload the CSV file (Duplicated addresses will be removed)
+
+#### 2. Google sheet
+
+* Step 1: Sort out all the eligible addresses to a Google Sheet File
+* Step 2: Please find here a screenshot example below of a Google Sheet Template
+
+  ![](assets/googlesheet.png)
+* Step 3: Add [spreadsheet@galxe.com](mailto:spreadsheet@galxe.com) as a viewer first
+* Step 4: Paste the Google Sheet URL (duplicated addresses will be removed)
+
+💡 The Google Sheet URL (link) cannot be altered once it has been synced to create a credential
+
+## Snapshot Credential
+
+> 💡 **What is Snapshot Credential?**
+>
+> Snapshot credential records wallet addresses that have voted a specific proposal on [Snapshot.org](http://Snapshot.org)
+
+Wondering how to create a Snapshot Credential for your community but don’t know where to start? To create this credential:
+
+**Step 1** - Find the proposal link
+
+![](assets/snapshoturl.png)
+
+**Step 2** - Copy and paste the Snapshot proposal link to proceed
+
+![](assets/snapshotsetup.png)
+
+**Step 3** - Fill up the Title and Description
+
+1. **Title, Description** and **Reference Link** as per details
+
+
+
+## Github contributor credential
+
+> 💡 **What is a Github credential?**
+>
+> Github credentials are used to identify contributions based on commits on Github public repo.
+
+
+
+**Step 1 -** Copy and paste Github Public Repo URL
+
+![](assets/githubrepo.png)
+
+**Step 2 -** Specify the minimum commits requirement
+
+![](assets/githubcommits.png)
+
+**Step 3 -** Fill up Title and Description
+
+> **E.g.**
+>
+> Title: Galxe Github contributor
+>
+> Description: Users who have contributed more than 20 commits on Galxe’s Github repo.
