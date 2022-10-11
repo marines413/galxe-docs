@@ -1,7 +1,7 @@
 ---
 sidebar_label: Step 3 - Deploy NFT Contract
 sidebar_position: 5
-slug: step-3-deploy-contract
+slug: /
 ---
 # Step 3 - Deploy an NFT Contract
 
@@ -15,7 +15,7 @@ slug: step-3-deploy-contract
 
 1. Click "Create NFT Contract"
 
-![CreateContract.png](assets/CreateContract.png)
+![](assets/CreateContract.png)
 
 2. Fill up Contract Info
 
