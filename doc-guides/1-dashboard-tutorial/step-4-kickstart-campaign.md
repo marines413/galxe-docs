@@ -35,8 +35,6 @@ slug: step-4-kickstart-campaign
 >
 > On a side-note, the OAT can be on Polygon or BSC!
 
-
-
 ### **To create this campaign...**
 
 Click “Create Campaign” and select “Galxe OAT”
@@ -48,8 +46,6 @@ Click “Create Campaign” and select “Galxe OAT”
 ### Fill up the “**Campaign Details” Component**
 
 ![](assets/oatdetails.png)
-
-
 
 a. Campaign Title (should be no more than 50 Characters)
 
@@ -75,8 +71,6 @@ g. Permission
 
 ![](assets/whoiseligible.png)
 
-
-
 a. Toggle on the "**Open to All**" feature if the campaign is available for all users to claim
 
 b. Select existing credential ID from the list (search function activated for all credentials)
@@ -89,7 +83,7 @@ e. Click "**+ Add new**" for a different Entry and Credential
 
 f. The "**AND / OR**" feature can be activated when selecting more than **one** credentials:
 
-*  **AND:** All selected credentials in one row have to be fulfilled for users to be eligible for a selected number of entries
+* **AND:** All selected credentials in one row have to be fulfilled for users to be eligible for a selected number of entries
 * **OR:** Selected credentials in separate rows can be fulfilled for users to be eligible for various entries
 
 Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
@@ -119,8 +113,6 @@ Click “Create Campaign” and select “Drop Campaign”
 ### Fill up “**Campaign Info” Component**
 
 ![](assets/infodrop.png)
-
-
 
 a. Campaign Title (should be under 80 characters)
 
@@ -180,10 +172,6 @@ Click "Save" to save the draft or click "Release" to release the campaign on Gal
 Confirm to save or release the Campaign by clicking "Sign" on the signature request
 
 ![](assets/release.png)
-
-
-
-
 
 ## Mystery Campaign Guide
 
@@ -265,7 +253,7 @@ e. Click "+ Add new" for a different Entry and Credential
 f. The "AND / OR" feature can be activated when selecting more than **one** credential:
 
 * AND: All selected credentials in one row have to be fulfilled for users to be eligible for a select number of entries
-*  OR: Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
+* OR: Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
 
 Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
 
@@ -275,7 +263,7 @@ Confirm to save or release the Campaign by clicking "Sign" on the signature requ
 
 ![](assets/release.png)
 
-### Parent Campaign Guide
+## Parent Campaign Guide
 
 ![](assets/peg.png)
 
@@ -339,7 +327,7 @@ e. Click "+ Add new" for a different Entry and Credential
 f. The "AND / OR" feature can be activated when selecting more than **one** credential:
 
 * AND: All selected credentials in one row have to be fulfilled for users to be eligible for a select number of entries
-*  OR: Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
+* OR: Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
 
 Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
 
