@@ -16,16 +16,31 @@ slug: step-1-create-space
 ![CreateSpace.png](assets/CreateSpace.png)
 
 3. Fill up the space information accordingly (*Introduction refers to Protocol/Project Description) 
-   a. Fill up the name of your project
-   b. Upload a 1:1 aspect ratio logo (jpg or png format)
-   c. Fill up a brief introduction of your project
-   d. URL for your Space on Galxe
-   e. Fill up the primary admin wallet address for the Space and click “+” to add (Primary Admin of Protocol/Project)
-   f. Input official links to your projects
-   g. Click "Create"
-   h. Confirm to create space by clicking "Sign" on the signature request
 
 ![SpaceInfo.png](assets/SpaceInfo.png)
+
+a. Fill up the name of your project
+
+
+b. Upload a 1:1 aspect ratio logo (jpg or png format)
+
+
+c. Fill up a brief introduction of your project
+
+
+d. URL for your Space on Galxe
+
+
+e. Fill up the primary admin wallet address for the Space and click “+” to add (Primary Admin of Protocol/Project)
+
+
+f. Input official links to your projects
+
+
+g. Click "Create"
+
+
+h. Confirm to create space by clicking "Sign" on the signature request
 
 ## Update Space Info
 
