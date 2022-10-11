@@ -15,7 +15,3 @@ International Space Station is the backbone to the grand universe exploration, a
 2. [Curate the credential](./step-2-curate-credentials.md)
 3. [Deploy an NFT Contract](./step-3-deploy-nft-contract.md)
 4. [Kickstart your campaign](./step-4-kickstart-campaign.md)
-
-## A Hitchhiker guide to Galxe Dashboard
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm-S-B8664U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
