@@ -1,122 +1,120 @@
 ---
-sidebar_label: "Step 2 - Curate Credentials"
+sidebar_label: Step 2 - Curate Credentials
 sidebar_position: 4
 slug: step-2-curate-credentials
 ---
-
 # Step 2 - Curate Credentials
 
-## Supported Credential Data Sources
+## Supported Credential types
 
-Currently we support curating credentials through multiple data sources:
+Currently we support curating credentials including:
 
-- CSV file
-- Subgraph endpoint
-- GraphQL endpoint
-- REST endpoint
+* EVM Address/ Solana Address
+* E﻿mail
+* Discord 
+* T﻿witter
+* S﻿napshot 
+* G﻿ithub
 
-## CSV Credential File
+### EVM Address Credential
 
-### Via Galxe Dashboard
+> The EVM Credential is designed to provide proof that a user has completed a task on a perspective EVM Chain. EVM Chain examples: Ethereum, BNB CHAIN, Polygon, Arbitrum, Optimism, Moonbeam etc. 
+>
+>
 
-- The user can see and select all credentials from any user while creating the space campaign, but on the “Credential” - “My Credential List” page, the user can only see and edit their own created credential list.
-- The user can download the existing whitelist file
-- The user can easily upload addresses in batches at once with the following file requirements:
-  - The file needs to be CSV format (Without Comma)
-  - Each address must not be duplicated
-  - The file should not contain headers
-- The user can also create a reference link for credentials as needed.
+To create this credential, go to your profile avatar (top right), click onto Curated Credentials and select EVM Address
 
-#### Create/edit CSV Credentials
+![](assets/curatedcredentials.png)
 
-1. Click "Credential" to go to "My Credential List" page
-2. Click "Create New Credential"
-3. Fill up the Credential Title
-4. Select the deployed Network
-5. Upload the CSV file
-   1. Error Alert if CSV file contained duplicated address and invalid address
-6. Fill up the Credential Description
-7. Fill up the reference link (If needed)
-8. Click "Create"
-9. Confirm to create the Credential by clicking "Sign" on the signature request
-10. Made a mistake? No worries! You can always come back to edit the credentials that you have created
+![](assets/evm-address.png)
 
-![Credential.png](assets/Credential.png)
+\*The user can see and select all credentials from any user while creating the space campaign, but on the “Curated Credentials” page, the user can only see and edit their own created credential list.
 
-Or check out this video for instructions: [https://youtu.be/EeE2Ngv7oEo](https://youtu.be/EeE2Ngv7oEo)
+### Credential Source
 
-### Via credential update API
+Under Credential Source, select the relevant type for your project.
 
-Alternatively, you can call our credential API to skip the manual steps in the dashboard.
+![](assets/credentialsource.png)
 
-More info [here](../../developer/guide/api-cred-items-update)
+#### 1. Snapshot
 
-## Subgraph/GraphQL Credential Endpoint
+The user can update the holder list via **CSV file** (or via API. [Learn how to update via the API](https://docs.galxe.com/developer/guide/api-cred-items-update/) - [](https://docs.galxe.com/developer/guide/api-cred-items-update/)<https://docs.galxe.com/developer/guide/api-cred-items-update/>)
 
-> 💡 We are adding Galxe dashboard support to create subgraph Credentials in a self-serve fashion. Before that, please contact Galxe team for assistance.
+* Step 1: The user can easily upload addresses in batches at once with the following file requirements:
 
-Subgraph and GraphQL typed Credentials consist of: endpoint, query, expression, and header. The only difference being subgraph is specific to the subgraphs hosted on [thegraph](https://thegraph.com/). Galxe will send `query` to the `endpoint` with `header`, and process the returned data with `expression`. For example:
+  * The file needs to be CSV format (Without Comma)
+  * Each address must not be duplicated
+  * The file should not contain headers
+* Step 2: Please find here a screenshot example of a CSV template
 
-endpoint:
 
-```
-https://api.xxx.com/cred/
-```
 
-header:
+![](assets/csvtemplate.png)
 
-```tsx
-{"Authorization": "key"}
-```
+* Step 3: Upload the CSV file (Duplicated addresses will be removed)
 
-query:
 
-```graphql
-query getEligibility($address: String!) {
-  campaignEligibility(address: $address) {
-    eligible
-  }
-}
-```
 
-expression:
+#### 2. Subgraph
 
-```tsx
-function(data){
- if(data != null && data.campaignEligibility != null && data.campaignEligibility.eligible) {
-   return 1
- }
- return 0
-}
-```
+> Applies to on-chain credentials. The holder list will be updated from [thegraph.com](https://thegraph.com/en/) through the endpoint/query/expression information specified.
 
-When `expression` returns 1, the address we checked is now confirmed to have this credential.
+I﻿t requires 3 fields to be filled: **Queries (HTTP)**, **Query** and **Expression**
 
-## REST Credential Endpoint
+##### Queries (HTTP) Endpoint
 
-A REST typed credential endpoint consists of three parts: endpoint, header and expression. Similar to subgraph/graphql, Galxe will send a `GET` request to the `endpoint` with `header`, and process the returned data with `expression`. For example:
+![](assets/queriesendpoint.png)
 
-endpoint (`$address` will be swapped out with the wallet address we need to check):
+##### **Query**
 
-```
-https://api.xxx.com/cred/address=$address
-```
+Use this query to check whether an address is eligible for the credential or not
 
-header:
+![](assets/query.png)
 
-```tsx
-{"Authorization": "key"}
-```
+##### **Expression**
 
-expression:
+This section should include the JavaScript Code used to convert the above Query result into a 0/1 output with 0 as the non-eligible queried address and 1 as the eligible credential
 
-```tsx
-function(data){
- if(data != null && data.campaignEligibility != null && data.campaignEligibility.eligible) {
-   return 1
- }
- return 0
-}
-```
+![](assets/expression.png)
 
-When `expression` returns 1, the address we checked is now confirmed to have this credential.
+M﻿ore examples for subgraph source, please refer to:
+
+[](https://galaxy.eco/credential/509)<https://galaxy.eco/credential/509>
+
+[](https://galaxy.eco/credential/47)<https://galaxy.eco/credential/47>
+
+[](https://galaxy.eco/credential/483)<https://galaxy.eco/credential/483>
+
+[](https://galaxy.eco/credential/173672263464951808)<https://galaxy.eco/credential/173672263464951808>
+
+##### 3. Google sheet
+
+* Step 1: Sort out all the eligible addresses to a Google Sheet File
+
+
+* Step 2: Please find here a screenshot example below of a Google Sheet Template
+* Step 3: Add [spreadsheet@galxe.com](mailto:spreadsheet@galxe.com) as a viewer first
+* Step 4: Paste the Google Sheet URL (duplicated addresses will be removed)
+
+![](assets/googlesheet.png)
+
+Compulsory items to include, which cannot be edited once created (circled in green): 
+
+*  Sheet Title | Eg. Project XX - 123 Campaign
+* Header | Eg. Eligible BEP-20 Wallet Addresses (EVM) 
+* The list of Wallet Addresses | “0x…” (One wallet address per separate row)
+* Tab Title | Eg. Sheet1
+
+Note: ﻿The Google Sheet URL (link) cannot be altered once it has been synced to create a credential
+
+
+
+## Description
+
+A short write-up of the required tasks in order to earn the credential title. It should be specific, detailed and easily understandable.
+
+![](assets/credentialtitle.png)
+
+## Reference Link
+
+You may include a direct link to your campaign page, social media pages etc.
