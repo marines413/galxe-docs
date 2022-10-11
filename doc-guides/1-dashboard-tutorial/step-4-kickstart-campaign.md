@@ -5,10 +5,12 @@ slug: step-4-kickstart-campaign
 ---
 # Step 4 - Kickstart a Campaign
 
-## About campaign launchpad on Galxe
+## About campaigns on Galxe
 
-* Under the Campaign list, admins can view "Ongoing" campaigns and previous drafts and edit/update the campaign information anytime.
-* Currently, the galaxy dashboard supports four types of campaigns creation:
+* Under the **Campaigns**, admins can view campaigns and previous drafts and edit/update the campaign information anytime by clicking “…” on each campaign card.
+
+  ![](assets/campaigns.png)
+* Currently, the galxe dashboard supports four types of campaigns creation:
 
   * OAT Campaign: Galxe On-Chain Achievement Token Campaign
   * Drop Campaign - Single NFT campaign
@@ -24,116 +26,328 @@ slug: step-4-kickstart-campaign
   * Snapshot: Voting w/ NFTs
   * Perk Center: A benefit center for your community
   * Gasless Minting (Matic network only)
-* Note: Once a campaign has been released, the selected NFT Core used for the specific campaign is irreversible.
 
-## Create/save/release a Campaign
+  💡Note: Once a campaign has been released, the selected NFT Contract used for the specific campaign is irreversible 
 
-1. Click "Create a New Campaign"
-2. Select the respective Campaign Type and click "Create"
-3. To learn about each campaign types, continue reading the following guide in this article to know more.
-4. Confirm to create respective Campaign Type by clicking "Sign" on the signature request
-5. Once signed, the admin will be re-directed to the Draft Campaign details page according to the campaign type selected.
-6. Fill out the campaign details by following each step on Dashboard
-7. To save/release an campaign, simply click the save/release button on the top right corner
+## OAT Campaign Guide
 
-![CampaignTypeDB.png](assets/CampaignTypeDB.png)
+> 💡The Galxe OAT is designed to be a gasless NFT solution to engage/reward users for completing various on or off-chain actions. 
+>
+> On a side-note, the OAT can be on Polygon or BSC!
 
-### OAT Campaign Guide
 
-1. Fill up the component: **Campaign Details**
 
-   1. Campaign Name (Title less than 50 Characters)
-   2. Campaign Description
-   3. OAT Media  (OAT Image/Video size is 1:1)
-      i. Image media
-      ii. Video media
-   4. Campaign Period (The NFT Claim period on Galxe)
+### **To create this campaign...**
 
-      1. Select the NFT Claim start and end time (As per your device time zone)
-      2. Activate the "No end time" feature if the claim period has no end time
-   5. Who is Eligible:
+Click “Create Campaign” and select “Galxe OAT”
 
-      1. Activate the "Open to All" feature if the campaign is available for all users to claim
-      2. Or select existing credential ID from the list (Search function activated for all credentials)
-         C. The "And/Or" feature can be activated when selecting 2 credentials in 1 row for the same number of entries.
-      3. Input the Entry (Claim count - the number of times an address/email can claim)
-      4. Click "+ Add" for a different Entry and Credential
-      5. Click "Create a new credential" for quick Credential ID creation
-2. Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately✅: All components must be completed to activate the "Save"/"Release" feature.
-3. Confirm to save or release the Campaign by clicking "Sign" on the signature request
+![](assets/create.png)
 
-![OATCampaign.png](assets/OATCampaign.png)
+![](assets/selectoat.png)
 
-<https://youtu.be/TaWAVV7ONbY>
+### Fill up the “**Campaign Details” Component**
 
-### Drop Campaign Guide
+![](assets/oatdetails.png)
 
-1. Fill up the first component: **Campaign Details**
 
-   1. Campaign Name (Title less than 50 Characters)
-   2. Campaign Description
-   3. Cover Image (Image size, recommended 5:6)
-   4. Campaign Period (The NFT Claim period on Galxe)
 
-      1. Select the NFT Claim start and end time (As per your device time zone)
-      2. Activate the "No end time" feature if the claim period has no end time
-2. Fill up the second component: **NFT Info**
+a. Campaign Title (should be no more than 50 Characters)
 
-   1. Select the respective NFT core and all existing NFTs templates under NFT core will be shown
-   2. Select the desired NFT (Only 1 NFT selection allowed)
-   3. Alternatively, click "Create a new NFT template" for quick NFTs template creation
-3. Fill up the third component: **Who is Eligible**
+b. Campaign Description
 
-   1. Activate the "Open to All" feature if the campaign is available for all users to claim
-   2. Or select existing credential ID from the list (Search function activated for all credentials)
-   3. The "And/Or" feature can be activated when selecting 2 credentials in 1 row for the same number of entries.
-   4. Input the Entry (Claim count - the number of times an address/email can claim)
-   5. Click "+ Add" for a different Entry and Credential
-   6. Click "Create a new credential" for quick Credential ID creation
-4. Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately
+c. OAT Media : PNG, JPG, GIF Max 20mb (1:1 circle) - The image you upload must be fully loaded to continue to the next page
 
-   ✅: All components must be completed to activate the "Save"/"Release" feature.
-5. Confirm to save or release the Campaign by clicking "Sign" on the signature request
+d. Location: If OAT is used for offline events, input the event location
 
-![ChildCampaign.png](assets/ChildCampaign.png)
+e. Network: OAT is currently available on Polygon Network and BNB Chain
 
-<https://youtu.be/h5579EIniCs>
+f. Campaign Period (NFT Claim period on Galxe)
 
-### Mystery Campaign Guide
+* Select the NFT start and end claim time (as per your device time zone)
+* Activate the "No End Time" feature if the claim period has no end time
 
-1. Fill up the first component: **Campaign Details**
-2. Fill up the second component: **NFT Info**
+g. Permission
 
-   **For more than 8 NFTs, please provide Galxe t**h**e metadata using the [OpenSea standard](https://docs.opensea.io/docs/metadata-standards) in JSON file or you may use [this](https://docs.google.com/spreadsheets/d/1r-yoW7AWHHJgU-byVyYR78W68SXVF6DQ/edit#gid=1378905338) spreadsheet template. (Image, name, attributes are required and others are optional.)*
+* Public: campaign will be visible under the SpacePublic: campaign will be visible under the Campaign and Space page
+* Private: Campaign will be hidden from the Space page, and only accessible through the specified link
 
-   1. Select the respective NFT core and all existing NFTs templates under NFT core will be shown
-   2. Select the desired NFT (Multiple Selection)
-   3. Alternatively, click "Create a new NFT template" for quick NFTs template creation
-   4. Input the weight (Probability) for each NFT
-3. Fill up the third component: **Who is Eligible**
-4. Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately
+### Fill up the “**Who is Eligible” Component**
 
-   ✅: All components must be completed to activate the "Save"/"Release" feature.
-5. Confirm to save or release the Campaign by clicking "Sign" on the signature request
+![](assets/whoiseligible.png)
 
-![MysteryCampaign.png](assets/MysteryCampaign.png)
 
-<https://youtu.be/ZxaqeozhSwA>
+
+a. Toggle on the "**Open to All**" feature if the campaign is available for all users to claim
+
+b. Select existing credential ID from the list (search function activated for all credentials)
+
+c. Input the Entry (claim count: number of times an address/email is eligible to claim)
+
+d. Click "**Create New**" to create a new credential not available under the Credential List
+
+e. Click "**+ Add new**" for a different Entry and Credential
+
+f. The "**AND / OR**" feature can be activated when selecting more than **one** credentials:
+
+*  **AND:** All selected credentials in one row have to be fulfilled for users to be eligible for a selected number of entries
+* **OR:** Selected credentials in separate rows can be fulfilled for users to be eligible for various entries
+
+Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
+
+![](assets/oatcheck.png)
+
+Confirm to **save** or **release** the Campaign by clicking "Sign" on the signature request.
+
+![](assets/release.png)
+
+## Drop Campaign Guide
+
+![](assets/dropeg.png)
+
+P﻿lease refer to: [Galaxy Girl - 2021 End-of-year Rave by Galxe](https://galxe.com/Galxe/campaign/GCts8UUAPJ)
+
+> 💡The Drop Campaign is designed to distribute NFTs with a single design or multiple designs as rewards for eligible users.
+
+### **To create this campaign...**
+
+Click “Create Campaign” and select “Drop Campaign”
+
+![](assets/create.png)
+
+![](assets/createdrop.png)
+
+### Fill up “**Campaign Info” Component**
+
+![](assets/infodrop.png)
+
+
+
+a. Campaign Title (should be under 80 characters)
+
+b. Campaign Description
+
+c. Campaign Period (NFT Claim Period on Galxe)
+
+* Select the NFT start and end claim time (as per your device time zone)
+* Toggle on the "No End Time" feature if the claim period has no end time
+
+d. Permission
+
+* Public: The campaign will be visible under the Campaign and Space page
+* Private: The campaign will be hidden from the Space page, and only accessible through the specified link
+
+### Fill up the “NFT Info” Component
+
+![](assets/nftinfodrop.png)
+
+a. NFT Media File Specs
+
+* Static: PNG, WEBP, SVG, JPG
+* Animated: GIF, MP4
+* Less than 20mb
+* 5:6 aspect ratio recommended
+* The image you upload must be fully loaded to continue to the next page
+
+b. Name: NFT name should be less than 32 characters, special characters are not allowed (Eg. Shadowy Coder NFT)
+
+c. NFT contract: Select the respective NFT contract (See “[How to create a NFT contract](https://docs.galxe.com/guide/dashboard-tutorial/step-3-deploy-nft-contract) ”)
+
+d. Attributes: If required, toggle the "+ Add" and add in the "Name" and "Value"
+
+### Fill up the “Who is eligible” Component
+
+![](assets/whoiseligible.png)
+
+a. Toggle on the "**Open to All**" feature if the campaign is available for all users to claim 
+
+b. Select existing credential ID from the list (search function activated for all credentials)
+
+c. Input the Entry (claim count: number of times an address/email is eligible to claim)
+
+d. Click "**Create New**" to create a new credential not available under the Credential List
+
+e. Click "**+ Add new**" for a different Entry and Credential
+
+f. The "**AND / OR**" feature can be activated when selecting more than **one** credentials:
+
+* **AND:** All selected credentials in one row have to be fulfilled for users to be eligible for a select number of entries
+* **OR:** Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
+
+Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
+
+![](assets/dropcheck.png)
+
+Confirm to save or release the Campaign by clicking "Sign" on the signature request
+
+![](assets/release.png)
+
+
+
+
+
+## Mystery Campaign Guide
+
+![](assets/mbeg.png)
+
+P﻿lease refer to: Space Expedition by Galxe
+
+> 💡The Mystery Box is designed to distribute NFTs based on weighted rarities in each box.
+
+### **To create this campaign...**
+
+Click “Create Campaign” and select “Mystery Box”
+
+![](assets/create.png)
+
+![](assets/createmb.png)
+
+### Fill up the “**Campaign Info” Component**
+
+a. Campaign Title (should be under 80 Characters)
+
+b. Campaign Description
+
+c. Media File for Mystery Box campaign cover image
+
+* Static: PNG, WEBP, SVG, JPG
+* Animated: GIF, MP4
+* Less than 20mb
+* 5:6 aspect ratio recommended
+* The image you upload must be fully loaded to continue to the next page
+
+d. Campaign Period (The NFT Claim period on Galxe)
+
+* Select the NFT start and end claim time (as per your device time zone)
+* Activate the "No End Time" feature if the claim period has no end time
+
+e. Permission:
+
+* Public: campaign will be visible under the SpacePublic: campaign will be visible under the Campaign and Space page
+* Private: Campaign will be hidden from the Space page, and only accessible through the specified link
+
+![](assets/mbinfo.png)
+
+### Fill up the “Mystery NFT Info” Component
+
+a. NFT Contract: Select the respective NFT contract (See “[How to create a NFT contract](https://docs.galxe.com/guide/dashboard-tutorial/step-3-deploy-nft-contract) ”)
+
+b. Click “+ Add New Mystery NFT” to insert multiple NFTs in the Mystery Box
+
+c. Name: NFT name should be less than 32 characters, special characters are not allowed (e.g. Shadowy Coder NFT)
+
+d. Mystery NFT File Specs
+
+* Static: PNG, WEBP, SVG, JPG
+* Animated: GIF, MP4
+* Less than 20mb
+* 5:6 aspect ratio recommended
+
+e. Attributes: If needed, toggle on the "+ Add" and add the "Name" and "Value"
+
+f. Weight: set weighted rarity for each NFT in each box
+
+![](assets/mbnftinfo.png)
+
+### Fill up the “Who is eligible” Component
+
+![](assets/whoiseligible.png)
+
+a. Toggle on the "Open to All" feature if the campaign is available for all users to claim **OR**
+
+b. Select existing credential ID from the list (search function activated for all credentials)
+
+c. Input the Entry (claim count: number of times an address/email is eligible to claim)
+
+d. Click "Create New" to create a new credential not available under the Credential List
+
+e. Click "+ Add new" for a different Entry and Credential
+
+f. The "AND / OR" feature can be activated when selecting more than **one** credential:
+
+* AND: All selected credentials in one row have to be fulfilled for users to be eligible for a select number of entries
+*  OR: Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
+
+Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
+
+![](assets/mbcheck.png)
+
+Confirm to save or release the Campaign by clicking "Sign" on the signature request.
+
+![](assets/release.png)
 
 ### Parent Campaign Guide
 
-1. Fill up the first component: **Campaign Details**
-2. Fill up the second component: **Child Campaign**
+![](assets/peg.png)
 
-   1. Select the desired ongoing/draft child campaigns (Multiple Selection)
-3. Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately
+Please refer to: [Meta Cowboy by Galxe](https://galxe.com/Galxe/campaign/GCMDXUUhhb)
 
-   ✅: All components must be completed to activate the "Save"/"Release" feature.
-4. Confirm to save or release the Campaign by clicking "Sign" on the signature request
+> 💡 The Parent Campaign is designed to display multiple NFT drop campaigns within one bigger umbrella campaign. 
 
-![ParentCampaign.png](assets/ParentCampaign.png)
+### **To create this campaign...**
 
-<https://www.youtube.com/watch?v=hHKT2ncNAeQ>
+Click “Create Campaign” and select “Parent Campaign”
+
+![](assets/create.png)
+
+![](assets/createp.png)
+
+### Fill up the “**Campaign Info” Component**
+
+![](assets/pinfo.png)
+
+a. Campaign Title (should be under 80 Characters)
+
+b. Campaign Description
+
+c. Media File for Mystery Box campaign cover image
+
+* Static: PNG, WEBP, SVG, JPG
+* Animated: GIF, MP4
+* Less than 20mb
+* 5:6 aspect ratio recommended
+* The image you upload must be fully loaded to continue to the next page
+
+d. Permission:
+
+* Public: campaign will be visible under the SpacePublic: campaign will be visible under the Campaign and Space page
+* Private: Campaign will be hidden from the Space page, and only accessible through the specified link
+
+### Fill up the “Child Campaigns” Component
+
+![](assets/childinfo.png)
+
+a. Click “+ Add Campaign” to add multiple campaigns under the Parent Campaign
+
+b. Select Child Campaigns (note: only released child campaigns will be available on the list, draft campaigns cannot be added)
+
+c. Drag to adjust the order of the child campaigns
+
+### Fill up the “Who is eligible” Component
+
+![](assets/whoiseligible.png)
+
+a. Toggle on the "Open to All" feature if the campaign is available for all users to claim **OR**
+
+b. Select existing credential ID from the list (search function activated for all credentials)
+
+c. Input the Entry (claim count: number of times an address/email is eligible to claim)
+
+d. Click "Create New" to create a new credential not available under the Credential List
+
+e. Click "+ Add new" for a different Entry and Credential
+
+f. The "AND / OR" feature can be activated when selecting more than **one** credential:
+
+* AND: All selected credentials in one row have to be fulfilled for users to be eligible for a select number of entries
+*  OR: Selected credentials in separate rows have to be fulfilled for users to be eligible for a select number of entries
+
+Click "Save" to save the draft or click "Release" to release the campaign on Galxe immediately. All components must be completed with the tick emoji (✅) indicated, to activate the "Save"/"Release" feature.
+
+![](assets/pcheck.png)
+
+Save or release the Campaign by clicking "Sign" on the signature request.
+
+![](assets/release.png)
 
 ## Congratulations!
 
