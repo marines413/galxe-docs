@@ -35,6 +35,12 @@ slug: step-4-kickstart-campaign
 >
 > On a side-note, the OAT can be on Polygon or BSC!
 
+### **Video guide**  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIly2ykBbkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ### **To create this campaign...**
 
 Click “Create Campaign” and select “Galxe OAT”
@@ -101,6 +107,12 @@ Confirm to **save** or **release** the Campaign by clicking "Sign" on the signat
 P﻿lease refer to: [Galaxy Girl - 2021 End-of-year Rave by Galxe](https://galxe.com/Galxe/campaign/GCts8UUAPJ)
 
 > 💡The Drop Campaign is designed to distribute NFTs with a single design or multiple designs as rewards for eligible users.
+
+### **Video guide** 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nAQ8xwADLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### **To create this campaign...**
 
@@ -180,6 +192,10 @@ Confirm to save or release the Campaign by clicking "Sign" on the signature requ
 P﻿lease refer to: Space Expedition by Galxe
 
 > 💡The Mystery Box is designed to distribute NFTs based on weighted rarities in each box.
+
+### **Video guide** 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6JcGJ-lzwr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **To create this campaign...**
 
@@ -270,6 +286,10 @@ Confirm to save or release the Campaign by clicking "Sign" on the signature requ
 Please refer to: [Meta Cowboy by Galxe](https://galxe.com/Galxe/campaign/GCMDXUUhhb)
 
 > 💡 The Parent Campaign is designed to display multiple NFT drop campaigns within one bigger umbrella campaign. 
+
+### **Video Guide**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ9yNc4_eVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **To create this campaign...**
 
