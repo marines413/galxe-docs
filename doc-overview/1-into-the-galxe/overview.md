@@ -29,7 +29,7 @@ By contributing to Galxe’s Credential Data Network, curators are rewarded when
 
 To this day, over 100 partners have already launched over 500 campaigns on Galxe. here are some case studies to provide more info:
 
-* **Bootstrapping Community**: [How Hashflow used Galxe to turbo-charge to $600M of trading volume](https://docs.galxe.com/Into-The-Galxe/3Gg3KWsGxJjFkbpjBxc6C7/Hashflow-DEX/4KodnDTqqWC13xrH1Pxmp9)
+* **Bootstrapping Community**: [How Hashflow used Galxe to turbo-charge to $600M of trading volume](https://docs.galxe.com/case-studies/DEXGrowthWithHashflow)
 * **Customized Voting System**: [How Galxe Powered Customized Voting Strategy for MVB Program](https://www.binance.org/en/blog/mvbiii-forming-a-voting-committee-to-bring-decentralization-into-the-mvb-program/)
 * **Loyalty Program**: [Yearn Finance Introduces Woofy NFT on Galxe](https://blog.galxe.com/yearn-finance-introduces-woofy-nfts-on-project-galaxy-95bf7ece2493)
 * **Growth Hacking Campaign**: [Galxe 2021 End-of-year Rave](https://blog.galxe.com/growth-hacking-in-web3-2021-project-galaxy-eoy-rave-campaign-recap-946a7452930b)
