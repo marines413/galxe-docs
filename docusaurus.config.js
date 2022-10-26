@@ -160,7 +160,7 @@ const config = {
               },
               {
                 label: "Proposals",
-                href: "governance/",
+                href: "https://forum.galxe.com/",
               },
               {
                 label: "Vote",
