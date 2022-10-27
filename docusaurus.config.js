@@ -104,6 +104,7 @@ const config = {
         logo: {
           src: "img/logo-light.svg",
           srcDark: "img/logo-dark.svg",
+          width: 110,
         },
         items: [
           {
@@ -191,7 +192,7 @@ const config = {
               {
                 label: "Twitter",
                 href:
-                  "https://twitter.com/intent/follow?screen_name=Galxe",
+                  "https://twitter.com/intent/follow?screen_name=GalxeHQ",
               },
               {
                 label: "Telegram",
