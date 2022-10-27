@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+ @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2160fd;
@@ -16,6 +18,7 @@
   --ifm-code-font-size: 85%;
   --ifm-footer-padding-vertical: calc(var(--ifm-spacing-vertical)*4) !important;
   --ifm-font-size-base: 94% !important;
+  --ifm-font-family-base: 'Inter';
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
