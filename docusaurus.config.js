@@ -186,12 +186,12 @@ const config = {
             items: [
               {
                 label: "Discord",
-                href: "https://discord.gg/projectgalaxy",
+                href: "https://discord.gg/galxe",
               },
               {
                 label: "Twitter",
                 href:
-                  "https://twitter.com/intent/follow?screen_name=GalxeHQ",
+                  "https://twitter.com/intent/follow?screen_name=Galxe",
               },
               {
                 label: "Telegram",
