@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'Galxe OAT'
+sidebar_label: Galxe OAT
 sidebar_position: 5
+slug: galaxy-oat
 ---
-
 # Galxe OAT (On-chain Achievement Token)
 
 ## What is Galxe OAT?
@@ -15,10 +15,10 @@ Galxe OAT aims to be a light-weight solution for event organizers and community 
 
 Imagine the concert tickets or NBA tickets you bought or any events you’ve been to, come with an NFT, wouldn’t it be interesting to have a credential to showcase for it...
 
-- Event organizers can create their dedicated pages on [galxe.com](http://galxe.com/), create events and credentials just by submitting the parameters and the design of the badge.
-- Users or event participants will be able to claim their NFTs just via their email with gas-less minting experience.
-- OAT is currently only available on Polygon in ERC-721, and will have native support with OpenSea and most of the wallet apps.
-- The metadata of all OAT NFTs will be stored on NFT.Storage powered by IPFS and Filecoin.
+* Event organizers can create their dedicated pages on [galxe.com](http://galxe.com/), create events and credentials just by submitting the parameters and the design of the badge.
+* Users or event participants will be able to claim their NFTs just via their email with gas-less minting experience.
+* OAT is currently only available on Polygon in ERC-721, and will have native support with OpenSea and most of the wallet apps.
+* The metadata of all OAT NFTs will be stored on NFT.Storage powered by IPFS and Filecoin.
 
 We foresee that Galxe OAT will not only be limited to Loyalty Programs for NFT, DeFi, Metaverse projects but also for real-world events and life experiences as well. In order to better prepare for future demands, we will continue to update OAT with the following features:
 
@@ -29,6 +29,6 @@ We foresee that Galxe OAT will not only be limited to Loyalty Programs for NFT, 
 
 ## Start your Galxe OAT Experience
 
-**For event organizers, apply for beta access now** - [https://gal.xyz/application](https://gal.xyz/application)
+**For event organizers, apply for beta access now** - [](https://gal.xyz/application)[https://gal.xyz/dashboard-application](<https://gal.xyz/dashboard-application>)
 
-**To learn more about how create an OAT event from Galxe Dashboard, visit** [https://help.galxe.com/article/grda0qy4m3-step-5-kickstart-a-campaign](https://help.galxe.com/article/grda0qy4m3-step-5-kickstart-a-campaign)
+**To learn more about how to create an OAT event from Galxe Dashboard, visit** [](https://help.galxe.com/article/grda0qy4m3-step-5-kickstart-a-campaign)<https://docs.galxe.com/guide/dashboard-tutorial/step-4-kickstart-campaign#oat-campaign-guide>
