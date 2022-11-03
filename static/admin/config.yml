@@ -205,10 +205,27 @@ collections:
       - { name: sidebar_position, label: Sidebar Position, widget: number }
       - { name: slug, label: Slug, widget: string }
       - { name: body, label: Body, widget: markdown }
+  - name: developer_integration
+    label: "developer/integration"
+    description: "description"
+    folder: doc-developer/2-integration
+    identifier_field: sidebar_position
+    summary: "{{sidebar_position}} - {{sidebar_label}}"
+    extension: md
+    widget: "list"
+    create: true
+    slug: "{{slug}}"
+    media_folder: 'assets'
+    sortable_fields: ['sidebar_position', 'sidebar_label']
+    fields:
+      - { name: sidebar_label, label: Sidebar Label, widget: string }
+      - { name: sidebar_position, label: Sidebar Position, widget: number }
+      - { name: slug, label: Slug, widget: string }
+      - { name: body, label: Body, widget: markdown }
   - name: developer_security
     label: "developer/security"
     description: "description"
-    folder: doc-developer/2-security
+    folder: doc-developer/3-security
     identifier_field: sidebar_position
     summary: "{{sidebar_position}} - {{sidebar_label}}"
     extension: md
@@ -225,24 +242,7 @@ collections:
   - name: developer_smart-contract
     label: "developer/smart-contract"
     description: "description"
-    folder: doc-developer/3-smart-contract
-    identifier_field: sidebar_position
-    summary: "{{sidebar_position}} - {{sidebar_label}}"
-    extension: md
-    widget: "list"
-    create: true
-    slug: "{{slug}}"
-    media_folder: 'assets'
-    sortable_fields: ['sidebar_position', 'sidebar_label']
-    fields:
-      - { name: sidebar_label, label: Sidebar Label, widget: string }
-      - { name: sidebar_position, label: Sidebar Position, widget: number }
-      - { name: slug, label: Slug, widget: string }
-      - { name: body, label: Body, widget: markdown }
-  - name: developer_smart-contract_contracts
-    label: "developer/smart-contract/contracts"
-    description: "description"
-    folder: doc-developer/3-smart-contract/contracts
+    folder: doc-developer/5-smart-contract
     identifier_field: sidebar_position
     summary: "{{sidebar_position}} - {{sidebar_label}}"
     extension: md
@@ -259,7 +259,7 @@ collections:
   - name: developer_graphql-api
     label: "developer/graphql-api"
     description: "description"
-    folder: doc-developer/4-graphql-api
+    folder: doc-developer/6-graphql-api
     identifier_field: sidebar_position
     summary: "{{sidebar_position}} - {{sidebar_label}}"
     extension: md
@@ -276,7 +276,7 @@ collections:
   - name: developer_guide
     label: "developer/guide"
     description: "description"
-    folder: doc-developer/5-guide
+    folder: doc-developer/4-guide
     identifier_field: sidebar_position
     summary: "{{sidebar_position}} - {{sidebar_label}}"
     extension: md

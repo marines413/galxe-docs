@@ -12,7 +12,7 @@ slug: api-cred-items-update
 
 ## Endpoint
 
-For more information on our GraphQL endpoint, please refer to [this doc](../4-graphql-api/overview.md).
+For more information on our GraphQL endpoint, please refer to [this doc](../6-graphql-api/overview.md).
 
 ## Input
 
