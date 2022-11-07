@@ -214,7 +214,7 @@ Under **Credential Source**, select the relevant type.
   * The file should not contain headers
 * Step 2: Please find here a screenshot example of a CSV template
 
-  ![](assets/csvtemplate.png)
+  ![](assets/email1.jpg)
 * Step 3: Upload the CSV file (Duplicated addresses will be removed)
 
 #### 2. Google sheet
@@ -222,7 +222,7 @@ Under **Credential Source**, select the relevant type.
 * Step 1: Sort out all the eligible addresses to a Google Sheet File
 * Step 2: Please find here a screenshot example below of a Google Sheet Template
 
-  ![](assets/googlesheet.png)
+  ![](assets/email2.jpg)
 * Step 3: Add [spreadsheet@galxe.com](mailto:spreadsheet@galxe.com) as a viewer first
 * Step 4: Paste the Google Sheet URL (duplicated addresses will be removed)
 
