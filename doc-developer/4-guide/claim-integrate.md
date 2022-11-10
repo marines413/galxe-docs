@@ -36,7 +36,7 @@ Formula is a algebraic expression of credentials and entries, the output of form
 
 ## 1.2. Integration workflow
 
-1. Sign up for Galxe Dashboard access, please refer to [Sign Up for Beta Access | Galxe Docs](https://docs.galxe.com/guide/dashboard-tutorial/beta-signup) .
+1. Sign up for Galxe Dashboard access, please refer to [Sign Up for Beta Access | Galxe Docs](https://docs.galxe.com/guide/dashboard-tutorial/beta-access).
 2. Create credentials through the Dashboard. Upload data for your credentials if their source is CSV file.
 3. Create NFT core(NFT contract) if needed, if you are only need to intergrate OAT campaign, then it’s not needed.
 4. Create space through the Dashboard.
@@ -53,7 +53,7 @@ Formula is a algebraic expression of credentials and entries, the output of form
 
 ## 2.1. Overview
 
-For endpoint and other info, please refer to [Overview | Galxe Docs](https://docs.galxe.com/developer/graphql-api/overview) .
+For endpoint and other info, please refer to [Overview | Galxe Docs](../6-graphql-api/overview.md).
 
 And for interface of each GraphQL query, please check docs/schema from [Playground - https://graphigo.prd.galaxy.eco/query](https://graphigo.prd.galaxy.eco/) .
 

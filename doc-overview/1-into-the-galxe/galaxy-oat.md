@@ -31,4 +31,4 @@ We foresee that Galxe OAT will not only be limited to Loyalty Programs for NFT, 
 
 **For event organizers, apply for beta access now** - [](https://gal.xyz/application)[https://gal.xyz/dashboard-application](<https://gal.xyz/dashboard-application>)
 
-**To learn more about how to create an OAT event from Galxe Dashboard, visit** [](https://help.galxe.com/article/grda0qy4m3-step-5-kickstart-a-campaign)<https://docs.galxe.com/guide/dashboard-tutorial/step-4-kickstart-campaign#oat-campaign-guide>
+**To learn more about how to create an OAT event from Galxe Dashboard, visit** [here](https://docs.galxe.com/guide/dashboard-tutorial/step-4-kickstart-campaign)

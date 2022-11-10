@@ -36,7 +36,7 @@ Under Credential Source, select the relevant type:
 
 #### 1. Snapshot
 
-The user can update the holder list via **CSV file** (or via API. [Learn how to update via the API](https://docs.galxe.com/developer/guide/api-cred-items-update/) - [](https://docs.galxe.com/developer/guide/api-cred-items-update/)<https://docs.galxe.com/developer/guide/api-cred-items-update/>)
+The user can update the holder list via **CSV file** (or via API. [Learn how to update via the API](https://docs.galxe.com/developer/guide/api-cred-items-update))
 
 * Step 1: The user can easily upload addresses in batches at once with the following file requirements:
 

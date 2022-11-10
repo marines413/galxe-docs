@@ -154,7 +154,7 @@ a. NFT Media File Specs
 
 b. Name: NFT name should be less than 32 characters, special characters are not allowed (Eg. Shadowy Coder NFT)
 
-c. NFT contract: Select the respective NFT contract (See “[How to create a NFT contract](https://docs.galxe.com/guide/dashboard-tutorial/step-3-deploy-nft-contract) ”)
+c. NFT contract: Select the respective NFT contract (See “[How to create a NFT contract](../1-dashboard-tutorial/step-3-deploy-nft-contract.md)”)
 
 d. Attributes: If required, toggle the "+ Add" and add in the "Name" and "Value"
 
@@ -233,7 +233,7 @@ e. Permission:
 
 ### Fill up the “Mystery NFT Info” Component
 
-a. NFT Contract: Select the respective NFT contract (See “[How to create a NFT contract](https://docs.galxe.com/guide/dashboard-tutorial/step-3-deploy-nft-contract) ”)
+a. NFT Contract: Select the respective NFT contract (See “[How to create a NFT contract](../1-dashboard-tutorial/step-3-deploy-nft-contract.md)”)
 
 b. Click “+ Add New Mystery NFT” to insert multiple NFTs in the Mystery Box
 
