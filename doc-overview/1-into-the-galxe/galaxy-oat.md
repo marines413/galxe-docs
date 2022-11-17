@@ -1,7 +1,7 @@
 ---
 sidebar_label: Galxe OAT
 sidebar_position: 5
-slug: galaxy-oat
+slug: galxe-oat
 ---
 # Galxe OAT (On-chain Achievement Token)
 
