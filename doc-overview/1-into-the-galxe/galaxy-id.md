@@ -1,6 +1,7 @@
 ---
-sidebar_label: 'Galxe ID'
+sidebar_label: Galxe ID
 sidebar_position: 4
+slug: galxe-id
 ---
 
 # Galxe ID
