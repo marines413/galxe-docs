@@ -353,9 +353,7 @@ Save or release the Campaign by clicking "Sign" on the signature request.
 
 ![](assets/release.png)
 
-## Setting up a campaign with the Raffle Feature
-
-
+## Raffle Feature Campaign
 
 Please refer to example: [Galxe x SID Games Festival Genius Raffle](https://galxe.com/Galxe/campaign/GCs6WUwxwG) 
 
@@ -364,12 +362,9 @@ Please refer to example: [Galxe x SID Games Festival Genius Raffle](https://galx
 ### **To create this campaign...**
 
 1. Navigate to your profile avatar (top right), and click on **My Spaces** to your space
-
 2. Click **Create** > **Create Campaign**
 
 ![](assets/raffle-campaign-1.png)
-
-
 
 3. Hover over the page's left sidebar, select Campaign Info, and fill up the required fields
 
