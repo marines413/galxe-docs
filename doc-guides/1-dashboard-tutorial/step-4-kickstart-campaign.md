@@ -35,11 +35,9 @@ slug: step-4-kickstart-campaign
 >
 > On a side-note, the OAT can be on Polygon or BSC!
 
-### **Video guide**  
+### **Video guide**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIly2ykBbkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ### **To create this campaign...**
 
@@ -108,11 +106,9 @@ P﻿lease refer to: [Galaxy Girl - 2021 End-of-year Rave by Galxe](https://galxe
 
 > 💡The Drop Campaign is designed to distribute NFTs with a single design or multiple designs as rewards for eligible users.
 
-### **Video guide** 
+### **Video guide**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nAQ8xwADLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ### **To create this campaign...**
 
@@ -193,7 +189,7 @@ P﻿lease refer to: Space Expedition by Galxe
 
 > 💡The Mystery Box is designed to distribute NFTs based on weighted rarities in each box.
 
-### **Video guide** 
+### **Video guide**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JcGJ-lzwr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -356,6 +352,73 @@ Click "Save" to save the draft or click "Release" to release the campaign on Gal
 Save or release the Campaign by clicking "Sign" on the signature request.
 
 ![](assets/release.png)
+
+## Setting up a campaign with the Raffle Feature
+
+
+
+Please refer to example: [Galxe x SID Games Festival Genius Raffle](https://galxe.com/Galxe/campaign/GCs6WUwxwG) 
+
+> 💡 The Raffle Feature is designed to allow projects to give away whitelist spots in a lucky draw format. Projects are free to design their campaign using the raffle feature into a raffle campaign. In future, the feature will allow other prizes (such as tokens, merchandise etc.) to be distributed.
+
+### **To create this campaign...**
+
+1. Navigate to your profile avatar (top right), and click on **My Spaces** to your space
+
+2. Click **Create** > **Create Campaign**
+
+![](assets/raffle-campaign-1.png)
+
+
+
+3. Hover over the page's left sidebar, select Campaign Info, and fill up the required fields
+
+* For raffle campaigns, it is compulsory to set both the start and end dates for the campaign period
+
+![](assets/raffle-campaign-2.png)
+
+4﻿. Next, onto the **Rewards** section, select **Custom Reward** and fill up the:
+
+* Reward Name
+* Participants’ ID Type
+
+  * either EVM Address, Solana Address, Email
+  * After the campaign ends, the participants’ addresses can be downloaded on the campaign page based on the ID type selected
+
+![](assets/raffle-campaign-3.png)
+
+5﻿. Lastly, onto the **How to Participate** section:
+
+* **Reward Distribution Method** - select “Raffle”
+* **Amount of Winners** - state the number of winners to be chosen for the whitelist spots
+* **Participation Requirement** - select one or more credentials to determine the eligibility of the campaign
+
+  * **Note:** a raffle campaign usually comes with additional prizes distributed by partners, which could be in the form of tokens, exclusive merchandise or collectibles. That said, in order to reduce the dilution of the exclusive rewards and prevent participation from bots, partners could set sybil prevention (KYC) tasks/credentials. Some of the sybil credentials include the Galxe Passport* Holders, Ethereum Transactors and BAB Holders etc.
+
+  \**Galxe Passport is a soul-bound NFT that proves that you have completed a KYC*
+
+  * **Sybil Credentials Found on our Platform**
+
+    * [Galxe Passport Holder](https://galxe.com/credential/191773898980368384)
+    * [Ethereum Transactors (1 Transaction)](https://galxe.com/credential/168916022259785728)
+    * [Ethereum Transactors (10 Transactions)](https://galxe.com/credential/187770474584514560)
+    * [BAB Token Holder](https://galxe.com/credential/189993469596049408)
+
+![](assets/raffle-campaign-4.png)
+
+6﻿. Once completed and you are ready for the Raffle Campaign launch, click Release. Your campaign is now live! 🎉
+
+![](assets/5.png)
+
+### Steps to Downloading the Participants’ List
+
+After the raffle campaign has ended (according to the campaign’s end time), navigate to the **All Participants** section.
+
+![](assets/6.png)
+
+Here, you can download the participants’ details (dependent on what has been selected - either EVM Address, Solana Address or Email) to distribute your rewards.
+
+![](assets/7.png)
 
 ## Congratulations!
 
