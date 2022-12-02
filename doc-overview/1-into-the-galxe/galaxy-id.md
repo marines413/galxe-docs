@@ -36,9 +36,9 @@ To accomplish that, simply follow the 2 steps after you click “Verify Twitter 
 
 ## Discord integration
 
-Some NFTs can only be claimed with a Email entry, and here’s what linking your Email address come in handy.
+Some NFTs can only be claimed with a Discord entry, and here’s when linking your Discord comes in handy.
 
-Enter your email address and hit “Send a code”. You will soon receive an email with the code that you have to enter for verification. Check your spam folder if you haven’t received one for a while.
+Click "Connect Discord Account" and it will open up another Discord application tab. On the new tab, click on "Authorise", and your Discord is now connected.
 
 ## Github integration
 
