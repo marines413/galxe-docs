@@ -7,7 +7,7 @@ slug: galxe-id-sdk
 
 ## Getting Started
 
-To get started, please apply a client ID by visiting https://gal.xyz/dashboard-support
+To get started, please apply a client ID by visiting https://gal.xyz/dashboard-support and select “Galxe ID SDK Application Request”.
 
 ## OAuth
 
