@@ -7,13 +7,23 @@ slug: subgraph-cred
 # How to setup a Subgraph credential through dashboard
 
 ## Introductions
-Subgraph type credential takes a single wallet address as input and outputs 0(false)/1(true) to indicate whether the wallet address is eligible. It requires 3 fields to be filled in: **Queries(HTTP)**, **Query** and **Expression**.
-### Queries(HTTP): 
-It's the HTTPs endpoint where Subgraph queries go to.
+Subgraph type credential takes a single wallet address as input and outputs 0(false)/1(true) to indicate whether the wallet address is eligible. It requires 3 fields to be filled in: **GraphQL Endpoint (HTTPs)**, **Query** and **Expression**.
+### GraphQL Endpoint (HTTPs): 
+It's the HTTPs endpoint where Subgraph queries go to, see the example below. 
+
+NOTE: If you saw a error when testing the API during creating a credential, check if the endpoint is a valid GraphQL
+API endpoint. Common misconfigurations include 
+(1) incorrectly used a GraphQL *playground* url, that usually ends with `/graph`, 
+(2) the GraphQL endpoint does now allow CORS from galxe.com.
+
 ### Query: 
 The GraphQL query, and it requires a single wallet address as input. For more detials, please refer to [Querying The Graph](https://thegraph.com/docs/en/querying/querying-the-graph/). In dashboard, once you finish your query, fill in a test address and click 'Run' button to check if the query's return is good.
 ### Expression: 
-A JavaScript (ES6) function with this type signature: `(object) => int`. The function should return either number 1 or 0, representing if the address is eligible for this subgraph credential. Behind the scenes, first, we send the query with the user's address to the GraphQL endpoint, and then we will apply the function against the 'data' field of the response. If the returned value is 1, then user can own this credential, otherwise, not. Once the query's output is good, click 'Run' button to check if expression processes query's output correctly.
+A JavaScript (ES6) function with this type signature: `(object) => int`. The function must be anonymous, which means that the first line of the expression should be like `function(data) {`, instead of `let expression = (data) => {`.
+
+The function should return either number 1 or 0, representing if the address is eligible for this subgraph credential. Behind the scenes, first, we send the query with the user's address to the GraphQL endpoint, and then we will apply the function against the 'data' field of the response. If the returned value is 1, then user can own this credential, otherwise not. 
+
+Once the query's output is good, click 'Run' button to check if expression processes query's output correctly.
 
 ## Subgraph Examples
 
@@ -57,7 +67,7 @@ query info($address: String!) {
 ```
 ### Expression
 ```javascript
-function(resp){
+function(resp) {
   if (resp != null && (resp.fulfilleds != null && resp.fulfilleds.length > 0 || resp.receiveds != null && resp.receiveds.length > 0)) {
      return 1
   }
