@@ -3,7 +3,6 @@ sidebar_label: Galxe ID
 sidebar_position: 4
 slug: galxe-id
 ---
-
 # Galxe ID
 
 > Make yourself the main character
@@ -12,14 +11,14 @@ To put this in the most simplest way as possible, Galxe ID is aiming to become 
 
 For all the users on Galxe,
 
-- Galxe ID can be your universal username that will represent your multichain/multiwallet identities in Web3.
-- You can display the credentials collected in the Web3 world and showcase the history of your achievements.
-- As a metaverse DID, developers can integrate Galxe ID toolkit and offer customized features to users based on their digital credentials, or simply enrich user profiles in the product. This will open up a lot of possibilities and redefine the future of Web3.
-- More features will be added, and soon you will be able to use the Galxe ID in Galxe's extensive partner network.
+* Galxe ID can be your universal username that will represent your multichain/multiwallet identities in Web3.
+* You can display the credentials collected in the Web3 world and showcase the history of your achievements.
+* As a metaverse DID, developers can integrate Galxe ID toolkit and offer customized features to users based on their digital credentials, or simply enrich user profiles in the product. This will open up a lot of possibilities and redefine the future of Web3.
+* More features will be added, and soon you will be able to use the Galxe ID in Galxe's extensive partner network.
 
 ## Claim your Galxe ID
 
-1. Visit https://galaxy.id
+1. Visit <https://docs.galxe.com/into-the-galxe/galxe-id>
 2. Hover to "Galxe ID" on the top menu
 3. Connect your wallet & set your username
 4. Done 🎉 - now you will be able to see eligible credentials attached to your Galxe ID
