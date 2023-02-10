@@ -1,15 +1,17 @@
 ---
-sidebar_label: Galxe Ecosystem Campaign 2021
+sidebar_label: "Ecosystem Campaign: Galxe"
 sidebar_position: 4
 slug: EndOfYearRave
 ---
-# Case Study: 2021 Galxe End-of-year Rave 
+# Ecosystem Campaign: Galxe
+
+![](assets/galxe-case-study-banner-2.png)
+
+## [2021 Galxe End-of-year Rave](<https://blog.galxe.com/growth-hacking-in-web3-2021-project-galaxy-eoy-rave-campaign-recap-946a7452930b>)
 
 During Christmas, Galxe, along with our ecosystem partners, has organized a rave to show our appreciation to the community members and were overwhelmed with the support from all of our communities member, with 7,212 community members claiming the Galxe Girl and Reindeer NFT.
 
-Source: <https://blog.galxe.com/growth-hacking-in-web3-2021-project-galaxy-eoy-rave-campaign-recap-946a7452930b>
-
-### End of Year Rave
+Source: [](https://blog.galxe.com/growth-hacking-in-web3-2021-project-galaxy-eoy-rave-campaign-recap-946a7452930b)
 
 ## Challenge
 
@@ -22,8 +24,6 @@ During Christmas, Galxe, along with our ecosystem partners, organized an End of 
 ## Results
 
 The campaign was a success for Galxe with 7,212 community members claiming the Galxe Girl and Reindeer NFT.  Our ecosystem partners also saw a significant increase in their followings, number of active users and also the number of engaged members in their community.
-
-![EOY Rave](./assets/eoy-rave.png)
 
 ### **[Perpetual Finance](https://galxe.com/perp/campaign/GCGRYUUwnX/) — 7501 NFTs Minted**
 
