@@ -1,9 +1,11 @@
 ---
-sidebar_label: Customized Governance with BNB Chain
+sidebar_label: "Incentivizing Builders: BNB Chain"
 sidebar_position: 2
 slug: CustomizedGovernanceWithBNBChain
 ---
-# Case Study: Customized Governance with BNB Chain
+# Incentivizing Builders: BNB Chain
+
+![](assets/bnb-chain-case-study-banner-2.png)
 
 BNB Chain has collaborated with Galxe to generate NFT Badges for the committee and MVB participants.
 
