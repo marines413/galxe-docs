@@ -1,9 +1,11 @@
 ---
-sidebar_label: Growth Hacking with Mintverse
+sidebar_label: "Protocol Growth: Mintverse"
 sidebar_position: 7
 slug: GrowthHackingWithMintverse
 ---
-# Case Study: Growth Hacking with Mintverse
+# Protocol Growth: Mintverse
+
+![](assets/mintverse-case-study-banner.png)
 
 ### **NFT Spring Carnival 2022**
 
