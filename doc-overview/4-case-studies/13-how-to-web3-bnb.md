@@ -3,9 +3,11 @@ sidebar_label: "Ecosystem Campaign: How to Web3 with BNB Chain"
 sidebar_position: 13
 slug: web3onbnb
 ---
-# Ecosystem Campaign: How to Web3 with BNB Chain
+# Ecosystem Campaign: BNB Chain
 
 ![](assets/bnb-chain-case-study-banner.png)
+
+## H﻿ow to Web3 with BNB
 
 ## Challenge
 
