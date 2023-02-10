@@ -1,9 +1,11 @@
 ---
-sidebar_label: Learn-to-earn with Coin Gecko
+sidebar_label: "Brand Awareness: CoinGecko"
 sidebar_position: 10
 slug: LearnToEarnWithCoinGecko
 ---
-# Case Study: Learn-to-earn with Coin Gecko
+# Brand Awareness: CoinGecko
+
+![](assets/coingecko-case-study-banner.png)
 
 ### “DeFi 101” NFT Campaign
 
