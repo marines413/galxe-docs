@@ -1,9 +1,11 @@
 ---
-sidebar_label: NFT Marketplace Growth with Polygon
+sidebar_label: "Brand Awareness: Polygon"
 sidebar_position: 5
 slug: NFTMarketplaceGrowth
 ---
-# Case Study: NFT Marketplace Growth with OpenSea on Polygon
+# Brand Awareness: Polygon
+
+![](assets/polygon-case-study-banner.png)
 
 ### The Polygon Genesis Creator
 
