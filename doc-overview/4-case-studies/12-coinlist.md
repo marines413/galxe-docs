@@ -1,9 +1,11 @@
 ---
-sidebar_label: Incentivizing Engagement With CoinList
+sidebar_label: "Airdrop and Allowlist: CoinList"
 sidebar_position: 12
 slug: CoinList
 ---
 # Airdrop and Allowlist: CoinList
+
+![](assets/coinlist-case-study-banner.png)
 
 ### FIAT Works Campaign
 
@@ -14,8 +16,6 @@ CoinList Friends & Karma Guru
 [CoinList](https://twitter.com/CoinList) is a trusted platform for new crypto offerings that accelerates the advancement of blockchain technology. 
 
 CoinList approached Galxe with the idea of launching their very first NFT Collection in December 2021 entitled [“FiatWorks”](https://blog.galxe.com/colinlist-takes-its-first-nft-collection-to-the-galaxy-e2393cefbe2). They wanted to reward their loyal fanbase by creating two campaigns that would incentivize engagement and web traffic. CoinList also wanted to give back to their community that had supported them throughout 2021 and were looking for Galxe to make that happen.
-
-![Untitled](assets/coinlist-case-study-banner.png)
 
 ## Solution
 
