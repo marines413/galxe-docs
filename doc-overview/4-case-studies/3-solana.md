@@ -1,9 +1,11 @@
 ---
-sidebar_label: Ecosystem Growth with Solana
+sidebar_label: "Ecosystem Campaign: Solana "
 sidebar_position: 3
 slug: EcosystemGrowthWithSolana
 ---
-# Case Study: Ecosystem Growth with Solana
+# Ecosystem Campaign: Solana
+
+![](assets/solana-case-study-banner.png)
 
 ### **SOL COOL 2022**
 
