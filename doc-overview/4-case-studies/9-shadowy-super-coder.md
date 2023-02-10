@@ -1,9 +1,13 @@
 ---
-sidebar_label: Incentivizing Builders with Galxe
+sidebar_label: "Incentivizing Builders: Galxe"
 sidebar_position: 9
 slug: ShadowySuperCoder
 ---
-# Case Study: Shadowy Super Coder
+# Incentivizing Builders: Galxe
+
+![](assets/galxe-case-study-banner-1.png)
+
+## Shadowy Super Coder
 
 **Challenge**
 Developers of the Web3 ecosystem are often overlooked and underappreciated. Galxe wanted to design and reward developers with a special Shadowy Super Coder NFT to all of those who contributed to our ecosystem. We then thought of a way to also help the developers by recreating something similar to the GitHub education pack.
