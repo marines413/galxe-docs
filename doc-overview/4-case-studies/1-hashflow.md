@@ -1,9 +1,11 @@
 ---
-sidebar_label: DEX Growth with Hashflow
+sidebar_label: "Protocol Growth: Hashflow"
 sidebar_position: 1
 slug: DEXGrowthWithHashflow
 ---
-# Case Study: DEX Growth with Hashflow
+# Protocol Growth: Hashflow
+
+![](assets/image.png "# Protocol Growth: Hashflow")
 
 Written by:
 
@@ -39,7 +41,7 @@ Charles Wayn, Co-Founder Galxe
 
 On October 6th, Hashflow [tweeted](https://twitter.com/hashflownetwork/status/1445887519342481420) that they crossed $250M trading volume. Metrics have been [growing](https://dune.xyz/Hashflow/Hashflow) tremendously since then.
 
-<https://lh3.googleusercontent.com/2qEP2pEGTKbe74UITYtcb1dkBgXyog95BtzXb4sQubzlNZYv59L7bW_PJKWFZoC-rz_WaFRRxYeXQGoKYIKTlJNDl2bhjg-1mGjy0ivWAuAHBDKSZ0Gg29jMMUDZHYL7um24DZT9>
+![](assets/screen-shot-2023-02-09-at-7.36.40-pm.png)
 
 The Galxe Campaign also had a significant impact on Hashflow WAU's
 
@@ -49,12 +51,10 @@ Varun Kumar, CEO Hashflow
 
 That is why we got so excited when we met the Galxe team this past summer; they are changing how truly Web3 companies grow, putting more growth arrows in the quiver. Galxe is building an on-chain credential system using NFTs, providing protocols and DAOs with actionable data to acquire and retain users more effectively. Protocols can then leverage these indexed and curated data sets to set up various reward systems for their most loyal users. With the explosion in popularity of NFTs this year, the token is no longer the only game in town to incentivize positive user behavior.
 
-
-
 ## R﻿esults
 
 * Nearly 30,000 users minted Hashflow’s NFTs on Ethereum mainnet on Galxe during a six-week campaign
 * Hashflow weekly active users grew from 3,000 to 13,000+
 * Following the start of the Galxe campaign, Hashflow’s monthly trading volume skyrocketed from $19.8M in August to $673M in October
 
-R﻿ead more about the results [here](<https://mirror.xyz/0x377B581957f447D2C56C08a0af23586c5a3B2577/IkNz6sQZgICuiOFqAoOxa8nlaNGrqlzvSMrL_xS2Drw>).
+R﻿ead more about the results [here](https://mirror.xyz/0x377B581957f447D2C56C08a0af23586c5a3B2577/IkNz6sQZgICuiOFqAoOxa8nlaNGrqlzvSMrL_xS2Drw).
