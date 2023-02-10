@@ -1,9 +1,11 @@
 ---
-sidebar_label: Loyalty Program with Zk.Link
+sidebar_label: "Community Engagement: zK.Link"
 sidebar_position: 8
 slug: LoyaltyProgramWithZk.Link
 ---
-# Case Study: Loyalty Program with Zk.Link
+# Community Engagement: zK.Link
+
+![](assets/zklink-case-study-banner.png)
 
 ## Challenge
 
