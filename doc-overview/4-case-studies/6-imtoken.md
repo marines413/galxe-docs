@@ -1,9 +1,11 @@
 ---
-sidebar_label: Community Engagement with ImToken
+sidebar_label: "Community Engagement: ImToken"
 sidebar_position: 6
 slug: CommunityEngagementWithImToken
 ---
-# Case Study: Community Engagement with ImToken
+# Community Engagement: ImToken
+
+![](assets/imtoken-case-study-banner.png)
 
 ### The Gift from imToken
 
@@ -19,17 +21,9 @@ imToken held four joint community activities with each protocol and users were a
 
 ![Untitled](assets/Untitled.png)
 
-![Untitled](assets/Untitled%201.png)
-
-![Untitled](assets/Untitled%202.png)
-
-![Untitled](assets/Untitled%203.png)
-
 ## Results
 
 A total of 3091 OATs were claimed - averaging over 770 per individual OAT. The campaign also helped each individual protocol grow their communities and have new users try out their infrastructures.
-
-![Untitled](assets/Untitled%204.png)
 
 ### **About imToken**
 
