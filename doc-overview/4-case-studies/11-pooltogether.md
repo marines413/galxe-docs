@@ -1,9 +1,11 @@
 ---
-sidebar_label: User Retention with PoolTogether
+sidebar_label: "Community Engagement: PoolTogether"
 sidebar_position: 11
 slug: PoolTogetherSeason1
 ---
-# Case Study: PoolTogether Season 1
+# Community Engagement: PoolTogether
+
+![](assets/pooltogether-case-study-banner.png)
 
 ## Pool Party Season 1
 
